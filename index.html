@@ -3,11 +3,9 @@
 
 <!-- Load d3.js -->
 <script src="https://d3js.org/d3.v4.js"></script>
-<script src="dsc106-project3/src/script.js"></script>
 
 <!-- Create a div where the graph will take place -->
 <div id="my_dataviz"></div>
-
 
 <script>
 
@@ -26,49 +24,54 @@ var svg = d3.select("#my_dataviz")
           "translate(" + margin.left + "," + margin.top + ")");
 
 //Read the data
-d3.csv("CLEANED_CSVs/resignation.csv", function(data) {
+d3.csv("CLEANED_CSVs/test2.csv", function(data) {
 
-  // group the data: I want to draw one line per group
-  var sumstat = d3.nest() // nest function allows to group the calculation per level of a factor
-    .key(function(d) { return d.name;})
-    .entries(data);
+    // Parse date string to date object
+    var parseDate = d3.timeParse("%Y-%m-%d");
 
-  // Add X axis --> it is a date format
-  var x = d3.scaleLinear()
-    .domain(d3.extent(data, function(d) { return d.year; }))
-    .range([ 0, width ]);
-  svg.append("g")
-    .attr("transform", "translate(0," + height + ")")
-    .call(d3.axisBottom(x).ticks(5));
+    // Parse the dates in the data
+    data.forEach(function(d) {
+        d['Resignation Date'] = parseDate(d['Resignation Date']);
+    });
 
-  // Add Y axis
-  var y = d3.scaleLinear()
-    .domain([0, d3.max(data, function(d) { return +d.n; })])
-    .range([ height, 0 ]);
-  svg.append("g")
-    .call(d3.axisLeft(y));
+    // Group data by year and count rows for each year
+    var countsByYear = d3.nest()
+        .key(function(d) { return d['Resignation Date'].getFullYear(); })
+        .rollup(function(v) { return v.length; })
+        .entries(data);
 
-  // color palette
-  var res = sumstat.map(function(d){ return d.key }) // list of group names
-  var color = d3.scaleOrdinal()
-    .domain(res)
-    .range(['#e41a1c','#377eb8','#4daf4a','#984ea3','#ff7f00','#ffff33','#a65628','#f781bf','#999999'])
+    // Create a map to store counts by year
+    var countByYearMap = {};
+    countsByYear.forEach(function(d) {
+        countByYearMap[d.key] = d.value;
+    });
 
-  // Draw the line
-  svg.selectAll(".line")
-      .data(sumstat)
-      .enter()
-      .append("path")
-        .attr("fill", "none")
-        .attr("stroke", function(d){ return color(d.key) })
-        .attr("stroke-width", 1.5)
-        .attr("d", function(d){
-          return d3.line()
-            .x(function(d) { return x(d.year); })
-            .y(function(d) { return y(+d.n); })
-            (d.values)
-        })
+    // Add X axis
+    var x = d3.scaleTime()
+      .domain(d3.extent(data, function(d) { return d['Resignation Date']; }))
+      .range([0, width]);
+    svg.append("g")
+      .attr("transform", "translate(0," + height + ")")
+      .call(d3.axisBottom(x));
 
-})
+    // Add Y axis
+    var y = d3.scaleLinear()
+      .domain([0, d3.max(countsByYear, function(d) { return d.value; })])
+      .range([height, 0]);
+    svg.append("g")
+      .call(d3.axisLeft(y));
+
+    // Add the line
+    svg.append("path")
+      .datum(countsByYear)
+      .attr("fill", "none")
+      .attr("stroke", "steelblue")
+      .attr("stroke-width", 1.5)
+      .attr("d", d3.line()
+        .x(function(d) { return x(parseDate(d.key + "-01-01")); })
+        .y(function(d) { return y(d.value); })
+      );
+
+});
 
 </script>

@@ -1,0 +1,599 @@
+,Member,Party,Year,State,Reason,Resignation Date
+0,Pat Tiberi,R,2018,OH,Took a job with the Ohio Business Roundtable,2018-01-15
+1,Al Franken,D,2018,MN,Sexual harassment/groping/unwanted kissing,2018-01-02
+2,Trent Franks,R,2017,AZ,Sexual harassment/surrogacy pressure,2017-12-08
+3,John Conyers,D,2017,MI,Sexual harassment/inappropriate touching,2017-12-05
+4,Tim Murphy,R,2017,PA,Extramarital affair/abortion hypocrisy,2017-10-21
+5,Jason Chaffetz,R,2017,UT,Took a job with FOX News,2017-06-30
+6,Ryan Zinke,R,2017,MT,Appointed to Trump administration,2017-03-01
+7,Mick Mulvaney,R,2017,SC,Appointed to Trump administration,2017-02-16
+8,Tom Price,R,2017,GA,Appointed to Trump administration,2017-02-10
+9,Jeff Sessions,R,2017,AL,Appointed to Trump administration,2017-02-08
+10,Xavier Becerra,D,2017,CA,Appointed California attorney general,2017-01-24
+11,Mike Pompeo,R,2017,KS,Appointed to Trump administration,2017-01-23
+12,Candice Miller,R,2016,MI,Elected Macomb County public works commish,2016-12-31
+13,Janice Hahn,D,2016,CA,Elected to LA County Board of Supervisors,2016-12-04
+14,Ed Whitfield,R,2016,KY,Ethics investigation,2016-09-06
+15,Chaka Fattah,D,2016,PA,Corruption conviction,2016-06-23
+16,John Boehner,R,2015,OH,Sick of fighting the Tea Party,2015-10-31
+17,Aaron Schock,R,2015,IL,Personal spending of government funds,2015-03-31
+18,Michael Grimm,R,2015,NY,Tax evasion,2015-01-05
+20,Eric Cantor,R,2014,VA,Embarrassingly lost primary & majority leadership,2014-08-18
+22,Max Baucus,D,2014,MT,Appointed to Obama administration,2014-02-06
+23,Trey Radel,R,2014,FL,Cocaine possession,2014-01-27
+24,Mel Watt,D,2014,NC,Appointed to Obama administration,2014-01-06
+25,Rodney Alexander,R,2013,LA,Appointed Louisiana VA secretary,2013-09-27
+26,Jo Bonner,R,2013,AL,Took a job with University of Alabama,2013-08-02
+27,Ed Markey,D,2013,MA,Elected U.S. senator,2013-07-15
+28,John Kerry,D,2013,MA,Appointed to Obama administration,2013-02-01
+29,Jo Ann Emerson,R,2013,MO,Took a job with National Rural Electric Cooperative Association,2013-01-22
+30,Tim Scott,R,2013,SC,Appointed U.S. senator,2013-01-02
+31,Jim DeMint,R,2013,SC,Took a job with the Heritage Foundation,2013-01-01
+32,Bob Filner,D,2012,CA,Elected San Diego mayor,2012-12-03
+35,Geoff Davis,R,2012,KY,"""Family health issue""",2012-07-31
+37,Jay Inslee,D,2012,WA,To focus on his run for governor,2012-03-20
+38,Gabby Giffords,D,2012,AZ,Recovery from gunshot injury,2012-01-25
+39,David Wu,D,2011,OR,Sexual harassment/sex with teenage girl,2011-08-03
+40,Anthony Weiner,D,2011,NY,Extramarital affair/sexting,2011-06-21
+41,Dean Heller,R,2011,NV,Appointed U.S. senator,2011-05-09
+42,John Ensign,R,2011,NV,Ethics investigation into extramarital affair,2011-05-03
+43,Jane Harman,D,2011,CA,Took a job with the Woodrow Wilson Center,2011-02-28
+44,Chris Lee,R,2011,NY,Extramarital affair/shirtless photo,2011-02-09
+45,Mark Kirk,R,2010,IL,Elected U.S. senator,2010-11-29
+46,Mark Souder,R,2010,IN,Extramarital affair,2010-05-21
+48,Eric Massa,D,2010,NY,Sexual harassment/groping (same-sex),2010-03-08
+49,Neil Abercrombie,D,2010,HI,To focus on his run for governor,2010-02-28
+50,Robert Wexler,D,2010,FL,Took a job with Middle East think tank,2010-01-03
+51,John McHugh,R,2009,NY,Appointed to Obama administration,2009-09-21
+53,Ellen Tauscher,D,2009,CA,Appointed to Obama administration,2009-06-26
+54,Hilda Solis,D,2009,CA,Appointed to Obama administration,2009-02-24
+55,Kirsten Gillibrand,D,2009,NY,Appointed U.S. senator,2009-01-26
+56,Hillary Clinton,D,2009,NY,Appointed to Obama administration,2009-01-21
+57,Ken Salazar,D,2009,CO,Appointed to Obama administration,2009-01-20
+58,Joe Biden,D,2009,DE,Elected vice president,2009-01-15
+59,Rahm Emanuel,D,2009,IL,Appointed to Obama administration,2009-01-02
+60,Tom Davis,R,2008,VA,Took a job with Deloitte,2008-11-24
+61,Barack Obama,D,2008,IL,Elected president,2008-11-16
+63,Richard Baker,R,2008,LA,Took a job with the Managed Funds Association,2008-02-02
+64,Bobby Jindal,R,2008,LA,Elected Louisiana governor,2008-01-14
+65,Roger Wicker,R,2007,MS,Appointed U.S. senator,2007-12-31
+66,Trent Lott,R,2007,MS,"""Time left to do something else""; founded a lobbying firm",2007-12-18
+67,Dennis Hastert,R,2007,IL,"No reason given, but had lost the speaker's gavel",2007-11-26
+68,Marty Meehan,D,2007,MA,Took a job with University of Massachusetts,2007-07-01
+69,Bob Ney,R,2006,OH,Pleaded guilty to Abramoff influence-peddling scandal,2006-11-03
+70,Mark Foley,R,2006,FL,Sexting with underage pages (same-sex),2006-09-29
+71,Tom DeLay,R,2006,TX,Campaign finance laundering & Abramoff scandal involvement,2006-06-09
+72,Jon Corzine,D,2006,NJ,Elected New Jersey governor,2006-01-17
+73,Bob Menendez,D,2006,NJ,Appointed U.S. senator,2006-01-16
+74,Duke Cunningham,R,2005,CA,Bribery and tax evasion,2005-12-01
+75,Christopher Cox,R,2005,CA,Appointed to Bush administration,2005-08-02
+76,Rob Portman,R,2005,OH,Appointed to Bush administration,2005-04-29
+77,Porter Goss,R,2004,FL,Appointed to Bush administration,2004-09-23
+78,Doug Bereuter,R,2004,NE,Took a job with the Asia Foundation,2004-08-31
+80,Bill Janklow,R,2004,SD,Convicted of manslaughter for a fatal car accident,2004-01-20
+81,Ernie Fletcher,R,2003,KY,Elected Kentucky governor,2003-12-08
+82,Larry Combest,R,2003,TX,"Wife lost DC-area job, wanted to spend more time with her",2003-05-31
+83,Frank Murkowski,R,2002,AK,Elected Alaska governor,2002-12-02
+84,Tony Hall,D,2002,OH,Appointed to Bush administration,2002-09-09
+85,James Traficant,D,2002,OH,"Convicted of bribery, tax evasion, and racketeering",2002-07-24
+86,Steve Largent,R,2002,OK,To focus on his run for governor,2002-02-15
+87,Joe Scarborough,R,2001,FL,To spend more time with his sons,2001-09-05
+88,Asa Hutchinson,R,2001,AR,Appointed to Bush administration,2001-08-06
+90,Bob Livingston,R,1999,LA,Extramarital affairs,1999-03-01
+91,Newt Gingrich,R,1999,GA,Faced caucus revolt after disappointing midterm,1999-01-03
+92,Ron Dellums,D,1998,CA,"""To do other things""; ended up consulting for healthcare company",1998-02-06
+93,Floyd Flake,D,1997,NY,To focus on his job as church pastor,1997-11-17
+94,Thomas Foglietta,D,1997,PA,Appointed to Clinton administration,1997-11-11
+95,Susan Molinari,R,1997,NY,Took a job with CBS,1997-08-02
+96,Bill Richardson,D,1997,NM,Appointed to Clinton administration,1997-02-13
+97,Ray Thornton,D,1997,AR,Elected Arkansas Supreme Court justice,1997-01-01
+98,Sam Brownback,R,1996,KS,Elected U.S. senator,1996-11-07
+99,Charlie Wilson,D,1996,TX,Probably to start clock on lobbyist waiting period,1996-10-08
+100,Bob Dole,R,1996,KS,To focus on his run for president,1996-06-11
+101,Kweisi Mfume,D,1996,MD,Took a job with the NAACP,1996-02-18
+102,Ron Wyden,D,1996,OR,Elected U.S. senator,1996-02-05
+103,Walter Tucker III,D,1995,CA,Convicted of extortion and tax evasion,1995-12-15
+104,Norman Mineta,D,1995,CA,Took a job with Lockheed Martin,1995-10-10
+105,Mel Reynolds,D,1995,IL,Convicted of sex with 16-year-old girl,1995-10-01
+106,Bob Packwood,R,1995,OR,Sexual harassment/assault,1995-10-01
+107,David Boren,D,1994,OK,Took a job with University of Oklahoma,1994-11-15
+108,Jim Inhofe,R,1994,OK,Elected U.S. senator,1994-11-15
+109,Glenn English,D,1994,OK,Took a job with National Rural Electric Cooperative Association,1994-01-07
+110,Bill Gradison,R,1993,OH,Took a job with Health Insurance Association of America,1993-01-31
+111,Mike Espy,D,1993,MS,Appointed to Clinton administration,1993-01-22
+112,Leon Panetta,D,1993,CA,Appointed to Clinton administration,1993-01-21
+113,Lloyd Bentsen,D,1993,TX,Appointed to Clinton administration,1993-01-20
+114,Les Aspin,D,1993,WI,Appointed to Clinton administration,1993-01-20
+115,Al Gore Jr.,D,1993,TN,Elected vice president,1993-01-02
+116,Jocelyn Burdick,D,1992,ND,Appointment was expiring; resigned to let successor start early,1992-12-14
+117,Kent Conrad,D,1992,ND,Elected to North Dakota's other U.S. Senate seat,1992-12-14
+118,French Slaughter,R,1991,VA,Series of strokes,1991-11-04
+119,William Gray III,D,1991,PA,Took a job with United Negro College Fund,1991-09-11
+120,Mo Udall,D,1991,AZ,Parkinson's disease,1991-05-04
+121,Steve Bartlett,R,1991,TX,To focus on his run for Dallas mayor,1991-03-11
+122,Ed Madigan,R,1991,IL,Appointed to Bush administration,1991-03-08
+123,Pete Wilson,R,1991,CA,Elected California governor,1991-01-07
+124,Bob Smith,R,1990,NH,Appointed U.S. senator,1990-12-07
+125,Gordon Humphrey,R,1990,NH,Elected New Hampshire state senator,1990-12-04
+126,Daniel Akaka,D,1990,HI,Appointed U.S. senator,1990-05-16
+127,Jim Florio,D,1990,NJ,Elected New Jersey governor,1990-01-16
+128,Robert Garcia,D,1990,NY,Convicted of extortion,1990-01-07
+129,Guy Molinari,R,1989,NY,Elected Staten Island borough president,1989-12-31
+130,Jim Wright,D,1989,TX,Ethics investigation into personal financial gain,1989-06-30
+131,Tony Coelho,D,1989,CA,Personal finances under investigation,1989-06-15
+132,Dick Cheney,R,1989,WY,Appointed to Bush administration,1989-03-17
+133,Dan Quayle,R,1989,IN,Elected vice president,1989-01-03
+134,Dan Coats,R,1989,IN,Appointed U.S. senator,1989-01-03
+135,Mario Biaggi,D,1988,NY,Convicted twice of corruption,1988-08-08
+136,Buddy Roemer,D,1988,LA,Elected Louisiana governor,1988-03-14
+137,Bill Boner,D,1987,TN,Elected Nashville mayor,1987-10-05
+138,Charles Whitley,D,1986,NC,"Was retiring & left early, probably to take a job with the Tobacco Institute",1986-12-31
+139,Jim Broyhill,R,1986,NC,Appointed U.S. senator,1986-07-13
+140,Cecil Heftel,D,1986,HI,To focus on his run for governor,1986-07-11
+141,Sam Hall,D,1985,TX,Appointed federal judge,1985-05-27
+143,Tom Corcoran,R,1984,IL,Recess-appointed to Synthetic Fuels Corporation board,1984-11-28
+144,Harold Washington,D,1983,IL,Elected Chicago mayor,1983-04-30
+145,Phil Gramm,D,1983,TX,Dem Party ostracized him; resigned to seek seat as Republican,1983-01-05
+146,Nicholas Brady,R,1982,NJ,Appointment was expiring; resigned to let successor start early,1982-12-26
+147,Fred Richmond,D,1982,NY,"Tax evasion, drug possession, campaign-finance irregularities",1982-08-25
+148,George Danielson,D,1982,CA,Appointed California appellate judge,1982-03-09
+149,Raymond Lederer,D,1981,PA,Bribery and conspiracy in Abscam scandal,1981-04-29
+150,Jon Hinson,R,1981,MS,Extramarital affair (same-sex),1981-04-13
+151,Pete Williams,D,1981,NJ,Bribery and conspiracy in Abscam scandal,1981-03-11
+152,Gladys Spellman,D,1981,MD,Brain-dead after heart attack,1981-02-24
+153,David Stockman,R,1981,MI,Appointed to Reagan administration,1981-01-27
+154,Donald Stewart,D,1981,AL,Lost reelection bid; resigned to let successor start early,1981-01-01
+155,Dick Stone,D,1980,FL,Lost reelection bid; resigned to let successor start early,1980-12-31
+156,John Durkin,D,1980,NH,Lost reelection bid; resigned to let successor start early,1980-12-29
+157,Frank Thompson,D,1980,NJ,Bribery and conspiracy in Abscam scandal,1980-12-29
+158,John Jenrette,D,1980,SC,Bribery and conspiracy in Abscam scandal,1980-12-10
+159,Michael Myers,D,1980,PA,Bribery in Abscam scandal,1980-10-02
+160,Charles Diggs Jr.,D,1980,MI,Censured for mail fraud and kickbacks from staff,1980-06-03
+161,Ed Muskie,D,1980,ME,Appointed to Carter administration,1980-05-07
+162,Dave Treen,R,1980,LA,Elected Louisiana governor,1980-03-10
+163,Dan Flood,D,1980,PA,Bribery and conspiracy,1980-01-31
+164,Abner Mikva,D,1979,IL,Appointed federal judge,1979-09-26
+165,William Scott,R,1979,VA,Retired; resigned early to give successor seniority,1979-01-01
+166,John Moss,D,1978,CA,Retired; probably resigned early to receive higher pension?,1978-12-31
+167,John McFall,D,1978,CA,Lost reelection; might've left early to receive higher pension or lobby,1978-12-31
+168,Del Clawson,R,1978,CA,Retired; probably resigned early to receive higher pension?,1978-12-31
+169,Joe Skubitz,R,1978,KS,Retired; resigned early to give successor seniority,1978-12-31
+170,Al Cederberg,R,1978,MI,Lost reelection; probably resigned early to receive higher pension?,1978-12-31
+171,James Delaney,D,1978,NY,Retired; probably resigned early to receive higher pension?,1978-12-31
+172,Olin Teague,D,1978,TX,Retired; probably resigned early to receive higher pension?,1978-12-31
+173,Bob Poage,D,1978,TX,Retired; probably resigned early to receive higher pension?,1978-12-31
+174,Omar Burleson,D,1978,TX,Retired; probably resigned early to receive higher pension?,1978-12-31
+175,Clifford Hansen,R,1978,WY,Retired; resigned early to give successor seniority,1978-12-31
+176,Teno Roncalio,D,1978,WY,Retired; probably resigned early to receive higher pension?,1978-12-30
+177,Wendell Anderson,D,1978,MN,Lost reelection bid; resigned to let successor start early,1978-12-29
+178,James Eastland,D,1978,MS,Retired; resigned early to give successor seniority,1978-12-27
+179,Thad Cochran,R,1978,MS,Appointed U.S. senator,1978-12-26
+180,James Pearson,R,1978,KS,Retired; resigned early to give successor seniority,1978-12-23
+181,Paul Hatfield,D,1978,MT,Appointment was expiring; resigned to let successor start early,1978-12-14
+182,Max Baucus,D,1978,MT,Appointed U.S. senator,1978-12-14
+183,Joseph LeFante,D,1978,NJ,Dem machine boss told him to,1978-12-14
+184,Maryon Allen,D,1978,AL,Appointment was expiring; resigned to let successor start early,1978-11-07
+185,Muriel Humphrey,D,1978,MN,Appointment was expiring; resigned to let successor start early,1978-11-07
+186,Ed Koch,D,1977,NY,Elected New York City mayor,1977-12-31
+187,Herman Badillo,D,1977,NY,Appointed New York City deputy mayor,1977-12-31
+188,Richard Tonry,D,1977,LA,Federal inquiry into voter fraud & illegal campaign contributions,1977-05-04
+189,Andrew Young,D,1977,GA,Appointed to Carter administration,1977-01-29
+190,Bob Bergland,D,1977,MN,Appointed to Carter administration,1977-01-22
+191,Brock Adams,D,1977,WA,Appointed to Carter administration,1977-01-22
+192,John Tunney,D,1977,CA,Lost reelection bid; resigned to let successor start early,1977-01-01
+193,Don Riegle Jr.,D,1976,MI,Appointed U.S. senator,1976-12-30
+194,Walter Mondale,D,1976,MN,Elected vice president,1976-12-30
+195,Robert Taft Jr.,R,1976,OH,Lost reelection bid; resigned to let successor start early,1976-12-28
+196,John Pastore,D,1976,RI,Retired; resigned early to give successor seniority,1976-12-28
+197,Stuart Symington,D,1976,MO,Retired; resigned early to give successor seniority,1976-12-27
+198,Roman Hruska,R,1976,NE,Retired; resigned early to give successor seniority,1976-12-27
+199,Wayne Hays,D,1976,OH,Extramarital affair/paying his mistress a salary,1976-09-01
+200,Bob Casey,D,1976,TX,Appointed to Ford administration,1976-01-22
+201,James Hastings,R,1976,NY,Took a job with Associated Industries of New York,1976-01-20
+202,Norris Cotton,R,1975,NH,To yield to the winner of the controversial NH-SEN re-vote,1975-09-18
+203,Richard Fulton,D,1975,TN,Elected Nashville mayor,1975-08-14
+204,J. William Fulbright,D,1974,AR,Lost reelection bid; quit to go on vacation & receive higher pension,1974-12-31
+205,Charles Gubser,R,1974,CA,Retired; probably resigned early to receive higher pension?,1974-12-31
+206,Chet Holifield,D,1974,CA,Retired; probably resigned early to receive higher pension?,1974-12-31
+207,Craig Hosmer,R,1974,CA,Retired; probably resigned early to receive higher pension?,1974-12-31
+208,Richard Hanna,D,1974,CA,Retired; probably resigned early to receive higher pension?,1974-12-31
+210,Leslie Arends,R,1974,IL,Retired; probably resigned early to receive higher pension?,1974-12-31
+211,Ken Gray,D,1974,IL,Retired; probably resigned early to receive higher pension?,1974-12-31
+212,Frank Stubblefield,D,1974,KY,Lost reelection; probably resigned early to receive higher pension?,1974-12-31
+213,Harold Donohue,D,1974,MA,Retired; probably resigned early to receive higher pension?,1974-12-31
+214,Charles Chamberlain,R,1974,MI,Retired; probably resigned early to receive higher pension?,1974-12-31
+215,Martha Griffiths,D,1974,MI,Retired; probably resigned early to receive higher pension?,1974-12-31
+216,Ancher Nelsen,R,1974,MN,Retired; probably resigned early to receive higher pension?,1974-12-31
+217,John Blatnik,D,1974,MN,Retired; probably resigned early to receive higher pension?,1974-12-31
+218,David Martin,R,1974,NE,Retired; probably resigned early to receive higher pension?,1974-12-31
+220,Louis Wyman,R,1974,NH,Appointed U.S. senator,1974-12-31
+221,William Widnall,R,1974,NJ,Lost reelection; probably resigned early to receive higher pension?,1974-12-31
+222,John Rooney,D,1974,NY,Retired; probably resigned early to receive higher pension?,1974-12-31
+223,Hugh Carey,D,1974,NY,Elected New York governor,1974-12-31
+224,Carleton King,R,1974,NY,Lost reelection; probably resigned early to receive higher pension?,1974-12-31
+225,Thaddeus Dulski,D,1974,NY,Retired; probably resigned early to receive higher pension?,1974-12-31
+226,Sam Ervin,D,1974,NC,Retired; resigned early to receive higher pension,1974-12-31
+227,William Minshall,R,1974,OH,Retired; probably resigned early to receive higher pension?,1974-12-31
+228,Edith Green,D,1974,OR,Retired; probably resigned early to receive higher pension?,1974-12-31
+229,Frank Clark,D,1974,PA,Lost reelection; probably resigned early to receive higher pension?,1974-12-31
+230,W.J. Bryan Dorn,D,1974,SC,Retired; probably resigned early to receive higher pension?,1974-12-31
+231,Tom Gettys,D,1974,SC,Retired; probably resigned early to receive higher pension?,1974-12-31
+232,O.C. Fisher,D,1974,TX,Retired; probably resigned early to receive higher pension?,1974-12-31
+233,Joel Broyhill,R,1974,VA,Lost reelection; probably resigned early to receive higher pension?,1974-12-31
+234,Julia Butler Hansen,D,1974,WA,Retired; probably resigned early to receive higher pension?,1974-12-31
+235,Vernon Thomson,R,1974,WI,Lost reelection; probably resigned early to receive higher pension?,1974-12-31
+236,Glenn Davis,R,1974,WI,Lost reelection; probably resigned early to receive higher pension?,1974-12-31
+237,Marlow Cook,R,1974,KY,Lost reelection bid; resigned to let successor start early,1974-12-27
+238,Howard Metzenbaum,D,1974,OH,Appointment was expiring; resigned to let successor start early,1974-12-23
+239,Wallace Bennett,R,1974,UT,Retired; resigned early to give successor seniority,1974-12-20
+240,Alan Bible,D,1974,NV,Retired; resigned early to give successor seniority,1974-12-17
+241,Bill Mailliard,R,1974,CA,Appointed to Nixon administration,1974-03-05
+242,James Harvey,R,1974,MI,Appointed federal judge,1974-01-31
+243,Bill Saxbe,R,1974,OH,Appointed to Nixon administration,1974-01-03
+244,William Keating,R,1974,OH,Took a job with Cincinnati Enquirer,1974-01-03
+245,Gerald Ford,R,1973,MI,Appointed vice president,1973-12-06
+246,Elaine Edwards,D,1972,LA,Appointment was expiring; resigned to let successor start early,1972-11-13
+247,Dick Poff,R,1972,VA,Appointed to Virginia Supreme Court,1972-08-29
+248,Edwin Edwards,D,1972,LA,Elected Louisiana governor,1972-05-09
+249,Bradford Morse,R,1972,MA,Took a job with United Nations,1972-05-01
+250,Charlotte Reid,R,1971,IL,Appointed to Nixon administration,1971-10-07
+251,Robert Stafford,R,1971,VT,Appointed U.S. senator,1971-09-16
+252,Rogers Morton,R,1971,MD,Appointed to Nixon administration,1971-01-29
+253,George Murphy,R,1971,CA,Lost reelection bid & left early; unclear why,1971-01-02
+254,John Tunney,D,1971,CA,Appointed U.S. senator,1971-01-02
+255,John Williams,R,1970,DE,Retired; resigned early to give successor seniority,1970-12-31
+256,William Roth,R,1970,DE,Appointed U.S. senator,1970-12-31
+257,Bill Cahill,R,1970,NJ,Elected New Jersey governor,1970-01-19
+258,Charles Joelson,D,1969,NJ,Appointed New Jersey superior court judge,1969-09-04
+259,Donald Rumsfeld,R,1969,IL,Appointed to Nixon administration,1969-05-25
+260,James Battin,R,1969,MT,Appointed federal judge,1969-02-27
+261,Ed Reinecke,R,1969,CA,Appointed California lieutenant governor,1969-01-21
+262,Melvin Laird,R,1969,WI,Appointed to Nixon administration,1969-01-21
+263,Paul Fino,R,1968,NY,Elected New York Supreme Court justice,1968-12-31
+264,Edward Long,D,1968,MO,Lost reelection bid; resigned to let successor start early,1968-12-27
+265,Thruston Morton,R,1968,KY,Retired; resigned early to give successor seniority,1968-12-16
+266,John Bell Williams,D,1968,MS,Elected Mississippi governor,1968-01-16
+267,Abraham Multer,D,1967,NY,Elected New York Supreme Court justice,1967-12-31
+268,Ralph Rivers,D,1966,AK,Lost reelection; resigned early to receive higher pension,1966-12-30
+269,Winfield Denton,D,1966,IN,Lost reelection; resigned early to receive higher pension,1966-12-30
+270,Ralph Harvey,R,1966,IN,Lost reelection; resigned early to receive higher pension,1966-12-30
+271,Leo O'Brien,D,1966,NY,Retired; resigned early to receive higher pension,1966-12-30
+272,Harold Cooley,D,1966,NC,Lost reelection; resigned early to receive higher pension,1966-12-30
+273,Robert Secrest,D,1966,OH,Lost reelection; resigned early to receive higher pension,1966-12-30
+274,Paul Dague,R,1966,PA,Retired; resigned early to receive higher pension,1966-12-30
+275,John Kunkel,R,1966,PA,Retired; resigned early to receive higher pension,1966-12-30
+276,Tom Murray,D,1966,TN,Lost reelection; resigned early to receive higher pension,1966-12-30
+277,Clark Thompson,D,1966,TX,Retired; resigned early to receive higher pension,1966-12-30
+278,A. Willis Robertson,D,1966,VA,Lost reelection bid; resigned to let successor start early,1966-12-30
+279,Robert Griffin,R,1966,MI,Appointed U.S. senator,1966-05-10
+280,Oren Harris,D,1966,AR,Appointed federal judge,1966-02-02
+281,John Lindsay,R,1965,NY,Elected New York City mayor,1965-12-31
+282,Harry Byrd Sr.,D,1965,VA,Health reasons,1965-11-10
+283,James Roosevelt,D,1965,CA,Appointed to Johnson administration,1965-09-30
+284,Albert Watson,D,1965,SC,Dem Party ostracized him; resigned to seek seat as Republican,1965-02-01
+286,Hubert Humphrey,D,1964,MN,Elected vice president,1964-12-29
+287,Edward Finnegan,D,1964,IL,Appointed Cook County judge,1964-12-06
+288,Joseph Montoya,D,1964,NM,Elected U.S. senator,1964-11-03
+289,Ross Bass,D,1964,TN,Elected U.S. senator,1964-11-03
+290,Robert Hemphill,D,1964,SC,Appointed federal judge,1964-05-01
+291,John Shelley,D,1964,CA,Elected San Francisco mayor,1964-01-07
+292,Homer Thornberry,D,1963,TX,Appointed federal judge,1963-12-20
+293,Robert Cook,D,1962,OH,Lost reelection bid & left early; unclear why,1962-12-13
+294,Frank Smith,D,1962,MS,Appointed to Tennessee Valley Authority,1962-11-14
+295,Hugh Addonizio,D,1962,NJ,Elected Newark mayor,1962-06-30
+296,Lester Holtzman,D,1961,NY,Elected New York Supreme Court justice,1961-12-31
+297,Frank Ikard,D,1961,TX,Took a job with American Petroleum Institute,1961-12-15
+298,Paul Kilday,D,1961,TX,Appointed federal judge,1961-09-24
+299,Thaddeus Machrowicz,D,1961,MI,Appointed federal judge,1961-09-18
+300,Stewart Udall,D,1961,AZ,Appointed to Kennedy administration,1961-01-18
+301,Lyndon Johnson,D,1961,TX,Elected vice president,1961-01-03
+302,Albert Bosch,R,1960,NY,Elected Queens County judge,1960-12-31
+303,John F. Kennedy,D,1960,MA,Elected president,1960-12-22
+304,Quentin Burdick,D,1960,ND,Elected U.S. senator,1960-08-08
+305,Isidore Dollinger,D,1959,NY,Elected Bronx district attorney,1959-12-31
+306,Henry Latham,R,1958,NY,Elected New York Supreme Court justice,1958-12-31
+307,Richard Wigglesworth,R,1958,MA,Appointed to Eisenhower administration,1958-11-13
+308,Earl Chudoff,D,1958,PA,Elected Pennsylvania judge,1958-01-05
+309,Sterling Cole,R,1957,NY,Took a job with International Atomic Energy Agency,1957-12-01
+310,Samuel K. McConnell,R,1957,PA,Took a job with United Cerebral Palsy Associations,1957-09-01
+311,Price Daniel,D,1957,TX,Elected Texas governor,1957-01-14
+312,Arthur Klein,D,1956,NY,Elected New York Supreme Court justice,1956-12-31
+313,Irwin Davidson,D,1956,NY,Elected New York judge,1956-12-31
+314,Strom Thurmond,D,1956,SC,Fulfilled a campaign pledge to resign & have a competitive primary,1956-04-04
+315,Sidney Fine,D,1956,NY,Elected New York Supreme Court justice,1956-01-02
+316,Hazel Abel,R,1954,NE,Elected as caretaker; resigned to let successor start early,1954-12-31
+317,Carl Curtis,R,1954,NE,Appointed U.S. senator,1954-12-31
+318,Jacob Javits,R,1954,NY,Elected New York attorney general,1954-12-31
+319,Charles Daniel,D,1954,SC,Appointment was expiring; resigned to let successor start early,1954-12-23
+320,George Bender,R,1954,OH,Elected U.S. senator,1954-12-15
+321,Roman Hruska,R,1954,NE,Elected U.S. senator,1954-11-08
+322,Norris Cotton,R,1954,NH,Elected U.S. senator,1954-11-07
+323,Robert Secrest,D,1954,OH,Appointed to Eisenhower administration,1954-09-26
+324,Louis Heller,D,1954,NY,Appointed New York judge,1954-07-21
+325,Clifford Case,R,1953,NJ,Took a job with Ford Foundation's Fund for the Republic,1953-08-16
+326,Norris Poulson,R,1953,CA,Elected Los Angeles mayor,1953-07-11
+327,Thomas Stanley,D,1953,VA,To focus on his run for governor,1953-02-03
+328,Richard Nixon,R,1953,CA,Elected vice president,1953-01-01
+329,Owen Brewster,R,1952,ME,Lost reelection bid & left early; unclear why,1952-12-31
+330,Leonard Hall,R,1952,NY,Elected Nassau County surrogate,1952-12-31
+331,Charles Potter,R,1952,MI,Elected U.S. senator,1952-11-04
+332,Foster Furcolo,D,1952,MA,Appointed Massachusetts treasurer,1952-09-30
+333,Tom Pickett,D,1952,TX,Took a job with National Coal Association,1952-06-30
+334,T. Vincent Quinn,D,1951,NY,Elected Queens district attorney,1951-12-30
+335,Edward Breen,D,1951,OH,Ill health,1951-10-01
+336,Harry Towe,R,1951,NJ,Appointed New Jersey deputy attorney general,1951-09-07
+337,Ed Gossett,D,1951,TX,Took a job with Southwestern Bell Telephone Company,1951-07-31
+338,Thomas Underwood,D,1951,KY,Appointed U.S. senator,1951-03-17
+339,Frank Barrett,R,1950,WY,Elected Wyoming governor,1950-12-31
+340,Sheridan Downey,D,1950,CA,Ill health,1950-11-30
+341,Richard Nixon,R,1950,CA,Appointed U.S. senator,1950-11-30
+342,Eugene Worley,D,1950,TX,Appointed federal judge,1950-04-03
+343,J. Parnell Thomas,R,1950,NJ,Convicted of fraud,1950-01-02
+344,Raymond Baldwin,R,1949,CT,Appointed Connecticut Supreme Court justice,1949-12-16
+345,J. Howard McGrath,D,1949,RI,Appointed to Truman administration,1949-08-23
+346,Robert Wagner,D,1949,NY,Health reasons,1949-06-28
+347,Alben Barkley,D,1949,KY,Elected vice president,1949-01-19
+348,Karl Mundt,R,1948,SD,Appointed U.S. senator,1948-12-30
+349,Vera Bushfield,R,1948,SD,Appointment was expiring; resigned to let successor start early,1948-12-26
+350,Noble Johnson,R,1948,IN,Appointed federal judge,1948-07-01
+351,J. Lindsay Almond,D,1948,VA,Elected Virginia attorney general,1948-04-17
+352,Earle Clements,D,1948,KY,Elected Kentucky governor,1948-01-06
+353,Benjamin Rabin,D,1947,NY,Elected New York Supreme Court justice,1947-12-31
+354,Evan Howell,R,1947,IL,Appointed federal judge,1947-10-05
+355,Leo Rayfiel,D,1947,NY,Appointed federal judge,1947-09-13
+356,Robert Jones,R,1947,OH,Appointed to Truman administration,1947-09-02
+357,Ewing Thomason,D,1947,TX,Appointed federal judge,1947-07-31
+358,Thomas D'Alesandro,D,1947,MD,Elected Baltimore mayor,1947-05-16
+359,Hugh Mitchell,D,1946,WA,Lost reelection bid; resigned to let successor start early,1946-12-25
+360,John Sparkman,D,1946,AL,Elected U.S. senator,1946-11-05
+361,Henry Dworshak,R,1946,ID,Elected U.S. senator,1946-11-05
+362,A. Willis Robertson,D,1946,VA,Elected U.S. senator,1946-11-05
+363,Warren Austin,R,1946,VT,Appointed to Truman administration,1946-08-02
+364,John Murphy,D,1946,PA,Appointed federal judge,1946-07-17
+365,Luther Johnson,D,1946,TX,Appointed federal judge,1946-07-17
+366,Thomas Burch,D,1946,VA,Appointed U.S. senator,1946-05-31
+367,Samuel Weiss,D,1946,PA,Elected Pennsylvania judge,1946-01-07
+368,Robert Ramspeck,D,1945,GA,Took a job with Air Transport Association,1945-12-31
+369,Clifton Woodrum,D,1945,VA,Took a job with American Plant Food Council,1945-12-31
+370,Samuel Dickstein,D,1945,NY,Elected New York Supreme Court justice,1945-12-30
+371,Happy Chandler,D,1945,KY,Took a job with Major League Baseball,1945-11-01
+372,Harold Burton,R,1945,OH,Appointed to U.S. Supreme Court,1945-09-30
+373,Lane Powers,R,1945,NJ,Appointed to New Jersey Public Utilities Commission,1945-08-30
+374,Clinton Anderson,D,1945,NM,Appointed to Truman administration,1945-06-30
+375,Dave Satterfield Jr.,D,1945,VA,Took a job with Life Insurance Association of America,1945-02-15
+376,Harry Truman,D,1945,MO,Elected vice president,1945-01-17
+377,Mon Wallgren,D,1945,WA,Elected Washington governor,1945-01-09
+378,William Troutman,R,1945,PA,"Unclear, but sounds like he was elected to PA State Senate",1945-01-02
+379,Warren Magnuson,D,1944,WA,Appointed U.S. senator,1944-12-13
+380,John Fogarty,D,1944,RI,Joined the Navy,1944-12-07
+381,Al Gore Sr.,D,1944,TN,Joined the Army,1944-12-04
+382,Lex Green,D,1944,FL,Joined the Navy,1944-11-25
+383,Homer Bone,D,1944,WA,Appointed federal judge,1944-11-13
+384,Bob Sikes,D,1944,FL,Joined the Army,1944-10-19
+385,Winder Harris,D,1944,VA,Took a job with Shipbuilders' Council of America,1944-09-15
+386,Will Rogers Jr.,D,1944,CA,Joined the Army,1944-05-23
+387,Jimmy Domengeaux,D,1944,LA,Joined the Army,1944-04-15
+388,Henry Cabot Lodge Jr.,R,1944,MA,Joined the Army,1944-02-03
+389,Joseph Gavagan,D,1943,NY,Elected New York Supreme Court justice,1943-12-30
+390,James McGranery,D,1943,PA,Appointed to Roosevelt administration,1943-11-17
+391,James Van Zandt,R,1943,PA,Joined the Navy,1943-09-24
+392,Jack Nichols,D,1943,OK,Took a job with Transcontinental & Western Air,1943-07-03
+393,Anton Maciejewski,D,1942,IL,Retired & left early; unclear why,1942-12-08
+394,James Scrugham,D,1942,NV,Elected U.S. senator,1942-12-07
+395,Harry Beam,D,1942,IL,Elected Illinois judge,1942-12-06
+396,Charles Faddis,D,1942,PA,Joined the Army,1942-12-04
+397,William Cole Jr.,D,1942,MD,Appointed federal judge,1942-10-26
+398,Vincent Harrington,D,1942,IA,Joined the Army,1942-09-05
+399,A.D. Baumhart Jr.,R,1942,OH,Joined the Navy,1942-09-02
+400,Arthur Healey,D,1942,MA,Appointed federal judge,1942-08-03
+401,Robert Secrest,D,1942,OH,Joined the Navy,1942-08-03
+402,Charles Leavy,D,1942,WA,Appointed federal judge,1942-08-01
+403,Joseph McArdle,D,1942,PA,Elected to Pittsburgh City Council,1942-01-05
+404,Harold Flannery,D,1942,PA,Elected Pennsylvania judge,1942-01-03
+405,Joseph Smith,D,1941,CT,Appointed federal judge,1941-11-04
+406,Wall Doxey,D,1941,MS,Elected U.S. senator,1941-09-29
+407,James Byrnes,D,1941,SC,Appointed to U.S. Supreme Court,1941-07-08
+408,John Miller,D,1941,AR,Appointed federal judge,1941-03-31
+409,Colgate Darden ,D,1941,VA,To focus on his run for governor,1941-03-01
+410,Walter Bankhead,D,1941,AL,Retured to his law practice (was always meant as a caretaker),1941-02-01
+411,Matthew Neely,D,1941,WV,Elected West Virginia governor,1941-01-12
+412,Thomas Hennings,D,1940,MO,Elected St. Louis circuit attorney,1940-12-31
+413,Mon Wallgren,D,1940,WA,Appointed U.S. senator,1940-12-19
+414,Lewis Schwellenbach,D,1940,WA,Appointed federal judge,1940-12-16
+415,Paul Maloney,D,1940,LA,Became collector of internal revenue for New Orleans district,1940-12-15
+416,Marvin Jones,D,1940,TX,Appointed federal judge,1940-11-20
+417,Lindsay Warren,D,1940,NC,Appointed comptroller general,1940-10-31
+418,Clift Chandler,D,1940,TN,Elected Memphis mayor,1940-01-02
+419,Alan Goldsborough,D,1939,MD,Appointed federal judge,1939-04-05
+420,Edward Eicher,D,1938,IA,Appointed to Roosevelt administration,1938-12-02
+421,James Mead,D,1938,NY,Elected U.S. senator,1938-12-02
+422,William McAdoo,D,1938,CA,Took a job with American Steamship Lines,1938-11-08
+423,Arthur Jenks,R,1938,NH,His election was successfully contested & overturned,1938-06-09
+424,Fred Vinson,D,1938,KY,Appointed federal judge,1938-05-12
+425,Frederick Steiwer,R,1938,OR,Returned to his law practice,1938-01-31
+426,Harry Moore,D,1938,NJ,Elected New Jersey governor,1938-01-18
+427,Lister Hill,D,1938,AL,Appointed U.S. senator,1938-01-11
+428,Dixie Bibb Graves,D,1938,AL,Appointment was expiring; resigned to let successor start early,1938-01-10
+429,Henry Ellenbogen,D,1938,PA,Elected Pennsylvania judge,1938-01-03
+430,John Miller,D,1937,AR,Elected U.S. senator,1937-11-14
+431,John Higgins,D,1937,MA,Appointed Massachusetts judge,1937-09-30
+432,Charles Millard,R,1937,NY,Elected Westchester County surrogate,1937-09-29
+433,Hugo Black,D,1937,AL,Appointed to U.S. Supreme Court,1937-08-19
+434,Frank Kloeb,D,1937,OH,Appointed federal judge,1937-08-19
+435,Prentiss Brown,D,1936,MI,Appointed U.S. senator,1936-11-18
+436,Guy Gillette,D,1936,IA,Elected U.S. senator,1936-11-03
+437,Samuel Hill,D,1936,WA,Appointed federal judge,1936-06-25
+438,Mell Underwood,D,1936,OH,Appointed federal judge,1936-04-10
+439,William Brunner,D,1935,NY,Elected Queens County sheriff,1935-09-27
+440,William Arnold,D,1935,IL,Appointed federal judge,1935-09-16
+441,Michael Igoe,D,1935,IL,Appointed to Roosevelt administration,1935-06-02
+442,John McDuffie,D,1935,AL,Appointed federal judge,1935-03-02
+443,Francis Condon,D,1935,RI,Appointed Rhode Island judge,1935-01-10
+444,James Beck,R,1934,PA,"Frustrated with Congress, could fight the New Deal better in court",1934-09-30
+445,W.A. Ayres,D,1934,KS,Appointed to Roosevelt administration,1934-08-22
+446,Frank Oliver,D,1934,NY,Appointed New York City magistrate,1934-06-18
+447,Ernest Gibson,R,1933,VT,Appointed U.S. senator,1933-10-19
+448,Earl Major,D,1933,IL,Appointed federal judge,1933-10-06
+449,Sam Bratton,D,1933,NM,Appointed federal judge,1933-06-24
+450,Heartsill Ragon,D,1933,AR,Appointed federal judge,1933-06-16
+451,Lewis Douglas,D,1933,AZ,Appointed to Roosevelt administration,1933-03-04
+452,Cordell Hull,D,1933,TN,Appointed to Roosevelt administration,1933-03-03
+453,John Nance Garner,D,1933,TX,Elected vice president,1933-03-03
+454,Claude Swanson,D,1933,VA,Appointed to Roosevelt administration,1933-03-03
+455,Harry Hawes,D,1933,MO,Retired; resigned early to give successor seniority,1933-02-03
+456,John Tilson,R,1932,CT,"Went back to ""private life"" to make money",1932-12-03
+457,Charles Crisp,D,1932,GA,Appointed to U.S. Tariff Commission,1932-10-07
+458,Frederick Dallinger,R,1932,MA,Appointed federal judge,1932-10-01
+459,George Welsh,R,1932,PA,Appointed federal judge,1932-05-31
+460,Peter Granata,R,1932,IL,His election was successfully contested & overturned,1932-04-05
+461,Russell Leech,R,1932,PA,Appointed federal judge,1932-01-29
+462,David Kincheloe,D,1930,KY,Appointed federal judge,1930-10-05
+463,Jeremiah O'Connell,D,1930,RI,Appointed Rhode Island judge,1930-05-09
+464,Augustus McCloskey,D,1930,TX,His election was successfully contested & overturned,1930-02-10
+465,John Robsion,R,1930,KY,Appointed U.S. senator,1930-01-10
+466,Fred Sackett,R,1930,KY,Appointed to Hoover administration,1930-01-09
+467,John Carew,D,1929,NY,Appointed New York Supreme Court justice,1929-12-28
+468,Walter Edge,R,1929,NJ,Appointed to Hoover administration,1929-11-21
+469,Thomas Williams,R,1929,IL,Appointed federal judge,1929-11-11
+470,Walter Newton,R,1929,MN,Appointed to Hoover administration,1929-06-30
+471,Charles Curtis,R,1929,KS,Elected vice president,1929-03-03
+472,Clarence MacGregor,R,1928,NY,Elected New York Supreme Court justice,1928-12-31
+473,Theodore Burton,R,1928,OH,Elected U.S. senator,1928-12-15
+474,Coleman du Pont,R,1928,DE,Ill health,1928-12-09
+475,William Bowling,D,1928,AL,Appointed Alabama judge,1928-08-16
+476,Nicholas Sinnott,R,1928,OR,Appointed federal judge,1928-05-31
+477,William Green,R,1928,IA,Appointed federal judge,1928-03-31
+478,James Hazlett,R,1927,PA,"Hard to find, but probably elected Philadelphia recorder of deeds?",1927-10-20
+479,Harry Hawes,D,1926,MO,To focus on his run for Senate,1926-10-15
+480,Smith Brookhart,R,1926,IA,His election was successfully contested & overturned,1926-04-12
+481,John Langley,R,1926,KY,Convicted of violating Prohibition laws,1926-01-11
+482,George Young,R,1924,ND,Appointed federal judge,1924-09-02
+483,William Graham,R,1924,IL,Appointed federal judge,1924-06-07
+484,William Fields,D,1923,KY,Elected Kentucky governor,1923-12-11
+485,Porter Dale,R,1923,VT,To focus on his run for Senate,1923-08-11
+486,Stanley Webster,R,1923,WA,Appointed federal judge,1923-05-08
+487,Horace Towner,R,1923,IA,Appointed Puerto Rico governor,1923-04-01
+488,William Vare,R,1923,PA,Elected to PA State Senate,1923-01-02
+489,Thomas Harrison,D,1922,VA,His election was successfully contested & overturned,1922-12-15
+490,Frank Millspaugh,R,1922,MO,Appointed state finance commissioner,1922-12-05
+491,Truman Newberry,R,1922,MI,Faced a vigorous election challenge due to his unethical campaign,1922-11-18
+492,Joseph Walsh,R,1922,MA,Appointed Massachusetts judge,1922-08-02
+493,Frank Reavis,R,1922,NE,Appointed to Harding administration,1922-06-03
+494,Alanson Houghton,R,1922,NY,Appointed to Harding administration,1922-02-28
+495,William Kenyon,R,1922,IA,Appointed federal judge,1922-02-24
+496,John Peters,R,1922,ME,Appointed federal judge,1922-01-02
+497,Josiah Wolcott,D,1921,DE,Appointed Delaware chancellor,1921-07-02
+498,Willfred Lufkin,R,1921,MA,Appointed collector of customs at Port of Boston,1921-06-30
+499,James Good,R,1921,IA,Took a job with a Chicago law firm,1921-06-15
+500,Albert Fall,R,1921,NM,Appointed to Harding administration,1921-03-04
+501,Patrick McLane,D,1921,PA,His election was successfully contested & overturned,1921-02-25
+502,John Nugent,D,1921,ID,Appointed to Wilson administration,1921-01-14
+503,Warren Harding,R,1921,OH,Elected president,1921-01-13
+504,Alvan Fuller,R,1921,MA,Elected Massachusetts lieutenant governor,1921-01-05
+505,John MacCrate,R,1920,NY,Elected New York Supreme Court justice,1920-12-30
+506,Thomas Heflin,D,1920,AL,To focus on his run for Senate,1920-11-01
+507,Edmund Platt,R,1920,NY,Appointed to Federal Reserve,1920-06-07
+508,Edward Saunders,D,1920,VA,Elected Virginia judge,1920-02-29
+509,Hampton Moore,R,1920,PA,Elected Philadelphia mayor,1920-01-04
+510,Reuben Haskell,R,1919,NY,Elected Kings County judge,1919-12-31
+511,Fiorello La Guardia,R,1919,NY,Elected New York City Board of Aldermen president,1919-12-31
+512,Joshua Alexander,D,1919,MO,Appointed to Wilson administration,1919-12-15
+513,Edwin Webb,D,1919,NC,Appointed federal judge,1919-11-10
+514,John F. Fitzgerald,D,1919,MA,His election was successfully contested & overturned,1919-10-23
+515,Frank Lever,D,1919,SC,Appointed to Federal Farm Loan Board,1919-08-01
+516,James Wilson,D,1919,TX,Appointed federal judge,1919-03-03
+517,Charles Carlin,D,1919,VA,Returned to his law practice,1919-03-03
+518,Zebulon Weaver,D,1919,NC,His election was successfully contested & overturned,1919-03-01
+519,Harry Dale,D,1919,NY,Appointed New York judge,1919-01-06
+520,John R.K. Scott,R,1919,PA,"Unclear, but sounds like he was elected to PA State House",1919-01-05
+521,Frederick Mulkey,R,1918,OR,Resigned early to give successor seniority (was always meant as a caretaker),1918-12-17
+522,Carter Glass,D,1918,VA,Appointed to Wilson administration,1918-12-16
+523,Irvine Lenroot,R,1918,WI,Elected U.S. senator,1918-04-17
+524,Murray Hulbert,D,1918,NY,Appointed director of Port of New York City,1918-01-01
+525,John J. Fitzgerald,D,1917,NY,Resumed practicing law,1917-12-31
+526,Daniel Griffin,D,1917,NY,Elected Kings County sheriff,1917-12-31
+527,Henry Bruckner,D,1917,NY,Elected Bronx borough president,1917-12-31
+528,William Adamson,D,1917,GA,Appointed federal judge,1917-12-18
+529,Mark Bacon,R,1917,MI,His election was successfully contested & overturned,1917-12-13
+530,Augustus Gardner,R,1917,MA,Joined the Army,1917-05-15
+531,Orrin Bleakley,R,1917,PA,Convicted of spending too much money on his campaign,1917-04-03
+532,James Hay,D,1916,VA,Appointed federal judge,1916-10-01
+533,William Stephens,R,1916,CA,Appointed California lieutenant governor,1916-07-22
+534,Joseph Johnson,D,1915,SC,Appointed federal judge,1915-04-19
+535,Eugene Kinkead,D,1915,NJ,"Elected Hudson County sheriff, right to vote in House challenged",1915-02-04
+536,Timothy Ansberry,D,1915,OH,Appointed Ohio judge,1915-01-09
+537,Frank Willis,R,1915,OH,Elected Ohio governor,1915-01-09
+538,Winfield Hammond,D,1915,MN,Elected Minnesota governor,1915-01-06
+539,Denis O'Leary,D,1914,NY,Elected Queens district attorney,1914-12-31
+540,Thomas Hardwick,D,1914,GA,To focus on his run for Senate,1914-11-02
+541,Walter McCoy,D,1914,NJ,Appointed federal judge,1914-10-03
+542,Harry Covington,D,1914,MD,Appointed federal judge,1914-09-30
+543,William Murray,D,1914,MA,Appointed postmaster of Boston,1914-09-28
+544,Andrew Peters,D,1914,MA,Appointed to Wilson administration,1914-08-15
+545,William Sharp,D,1914,OH,Appointed to Wilson administration,1914-07-23
+546,James McDermott,D,1914,IL,"Implicated in lobbying scandal, resigned to avoid expulsion ",1914-07-21
+547,L.C. Dyer,R,1914,MO,His election was successfully contested & overturned,1914-06-19
+548,Henry Clayton,D,1914,AL,Appointed federal judge,1914-05-25
+549,James Michael Curley,D,1914,MA,Elected Boston mayor,1914-02-04
+550,Francis Harrison,D,1913,NY,Appointed Philippines governor,1913-09-01
+551,John W. Davis,D,1913,WV,Appointed to Wilson administration,1913-08-29
+552,Olin Young,R,1913,MI,Turned out votes were miscounted & he didn't win election,1913-05-16
+553,Albert Burleson,D,1913,TX,Appointed to Wilson administration,1913-03-06
+554,John Weeks,R,1913,MA,Elected U.S. senator,1913-03-04
+555,Morris Sheppard,D,1913,TX,Elected U.S. senator,1913-02-03
+556,Joe T. Robinson,D,1913,AR,Elected Arkansas governor,1913-01-14
+557,James Cox,D,1913,OH,Elected Ohio governor,1913-01-12
+558,L.B. Hanna,R,1913,ND,Elected North Dakota governor,1913-01-07
+560,Bill Sulzer,D,1912,NY,Elected New York governor,1912-12-31
+561,Charles Bowman,R,1912,PA,His election was successfully contested & overturned,1912-12-12
+562,William Hughes,D,1912,NJ,Appointed New Jersey judge,1912-09-27
+563,Theron Catlin,R,1912,MO,His election was successfully contested & overturned,1912-08-12
+564,William Lorimer,R,1912,IL,Election declared invalid,1912-07-13
+565,Joseph Terrell,D,1911,GA,Had a stroke,1911-07-14
+566,Walter Smith,R,1911,IA,Appointed federal judge,1911-03-15
+567,Asle Gronna,R,1911,ND,Elected U.S. senator,1911-02-02
+568,John Reynolds,R,1911,PA,Elected Pennsylvania lieutenant governor,1911-01-17
+569,John Tener,R,1911,PA,Elected Pennsylvania governor,1911-01-16
+570,Eugene Foss,D,1911,MA,Elected Massachusetts governor,1911-01-04
+571,Gordon Russell,D,1910,TX,Appointed federal judge,1910-06-14
+573,William Lorimer,R,1909,IL,Elected U.S. senator,1909-06-17
+574,Theodore Burton,R,1909,OH,Elected U.S. senator,1909-03-04
+575,Philander Knox,R,1909,PA,Appointed to Taft administration,1909-03-04
+576,William Kitchin,D,1909,NC,Elected North Carolina governor,1909-01-11
+577,George Lilley,R,1909,CT,Seat vacated when he became Connecticut governor,1909-01-06
+578,Charles Brumm,R,1909,PA,Elected Pennsylvania judge,1909-01-04
+579,Charles Littlefield,R,1908,ME,Returned to his law practice,1908-09-30
+580,John Spooner,R,1907,WI,Resumed practicing law,1907-04-30
+581,John Reyburn,R,1907,PA,Elected Philadelphia mayor,1907-03-31
+582,William Alden Smith,R,1907,MI,Elected U.S. senator,1907-02-09
+583,Charles Curtis,R,1907,KS,Elected U.S. senator,1907-01-28
+584,John Little,D,1907,AR,Elected Arkansas governor,1907-01-14
+585,Newton Gilbert,R,1906,IN,Appointed federal judge,1906-11-06
+586,Malcolm Patterson,D,1906,TN,Elected Tennessee governor,1906-11-05
+587,James Gillett,R,1906,CA,Elected California governor,1906-11-04
+589,Ernest Wood,D,1906,MO,His election was successfully contested & overturned,1906-06-23
+590,Joseph Burton,R,1906,KS,Convicted of corruption,1906-06-04
+591,Claude Swanson,D,1906,VA,Elected Virginia governor,1906-01-30
+592,Frank Brandegee,R,1905,CT,Elected U.S. senator,1905-05-10
+593,Alston Dayton,R,1905,WV,Appointed federal judge,1905-03-16
+594,Elmer Burkett,R,1905,NE,Elected U.S. senator,1905-03-04
+595,Charles Fairbanks,R,1905,IN,Elected vice president,1905-03-03
+596,James Hemenway,R,1905,IN,Elected U.S. senator,1905-03-03
+597,Victor Metcalf,R,1904,CA,Appointed to Roosevelt administration,1904-07-01
+598,William Lanning,R,1904,NJ,Appointed federal judge,1904-06-06
+599,Charles Dick,R,1904,OH,Elected U.S. senator,1904-03-23
+600,John Shafroth,D,1904,CO,Agreed that his opponent had rightfully won the election,1904-02-15
+601,George Howell,D,1904,PA,His election was successfully contested & overturned,1904-02-10
+602,George McClellan Jr.,D,1903,NY,Elected New York City mayor,1903-12-21
+603,Thomas Ball,D,1903,TX,Resumed practicing law,1903-11-16
+604,Joseph Gill,R,1903,OH,Ill health,1903-10-31
+605,Chester Long,R,1903,KS,Elected U.S. senator,1903-03-04
+606,Heisler Ball,R,1903,DE,Elected U.S. senator,1903-03-03
+607,James Butler,D,1903,MO,His election was successfully contested & overturned,1903-02-26
+608,S.W.T. Lanham,D,1903,TX,Elected Texas governor,1903-01-15
+609,James Hall,D,1902,PA,Elected to PA State Senate,1902-11-29
+610,George Ray,R,1902,NY,Appointed federal judge,1902-09-11
+611,James Butler,D,1902,MO,Election declared invalid,1902-06-28
+612,William Moody,R,1902,MA,Appointed to Roosevelt administration,1902-05-01
+613,John Rhea,D,1902,KY,His election was successfully contested & overturned,1902-03-25
+614,Nicholas Muller,D,1901,NY,Ill health,1901-11-22
