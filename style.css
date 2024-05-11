@@ -3,6 +3,32 @@ h1 {
 	text-align: center;
 }
 
+h2 {
+	color: black;
+	text-align: center;
+	font-size: 30px;
+}
+
+h3 {
+	color: black;
+	text-align: center;
+	font-size: 20px;
+}
+
 #my_dataviz {
+	justify-content: center;
     border: 3 px solid black;
+}
+
+#write_up_title {
+	font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+#write_up_text {
+	font-size: 20px;
+	text-align: center;
+
 }
