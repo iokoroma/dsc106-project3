@@ -1,11 +1,259 @@
-Category,Member
-Consensual sex scandals,6
-Election overturned,9
-Health/family,6
-Left early,33
-Military service,4
-Other,6
-Other office,148
-Other scandals,13
-Private sector,23
-Unwanted sexual contact,3
+,Member,Party,District,Congress,Resignation Date,Reason,Source,Category,State,Year
+0,Pat Tiberi,R,OH-12,115th,2018-01-15,Took a job with the Ohio Business Roundtable,New York Times,Private sector,OH,2018
+2,Trent Franks,R,AZ-08,115th,2017-12-08,Sexual harassment/surrogacy pressure,CNN,Unwanted sexual contact,AZ,2017
+4,Tim Murphy,R,PA-18,115th,2017-10-21,Extramarital affair/abortion hypocrisy,POLITICO,Consensual sex scandals,PA,2017
+5,Jason Chaffetz,R,UT-03,115th,2017-06-30,Took a job with FOX News,POLITICO,Private sector,UT,2017
+6,Ryan Zinke,R,MT-AL,115th,2017-03-01,Appointed to Trump administration,Bozeman Daily Chronicle,Other office,MT,2017
+7,Mick Mulvaney,R,SC-05,115th,2017-02-16,Appointed to Trump administration,Associated Press,Other office,SC,2017
+8,Tom Price,R,GA-06,115th,2017-02-10,Appointed to Trump administration,GeorgiaPol,Other office,GA,2017
+9,Jeff Sessions,R,AL-SEN,115th,2017-02-08,Appointed to Trump administration,Washington Examiner,Other office,AL,2017
+11,Mike Pompeo,R,KS-04,115th,2017-01-23,Appointed to Trump administration,NBC News,Other office,KS,2017
+12,Candice Miller,R,MI-10,114th,2016-12-31,Elected Macomb County public works commish,Detroit News,Other office,MI,2016
+14,Ed Whitfield,R,KY-01,114th,2016-09-06,Ethics investigation,Kentucky Center for Investigative Reporting,Other scandals,KY,2016
+16,John Boehner,R,OH-08,114th,2015-10-31,Sick of fighting the Tea Party,New York Times,Other,OH,2015
+17,Aaron Schock,R,IL-18,114th,2015-03-31,Personal spending of government funds,POLITICO,Other scandals,IL,2015
+18,Michael Grimm,R,NY-11,114th,2015-01-05,Tax evasion,CNN,Other scandals,NY,2015
+19,Tom Coburn,R,OK-SEN,113th,2015-01-03,"Self-imposed term limits/""shifting my focus elsewhere""",The Oklahoman,,OK,2015
+20,Eric Cantor,R,VA-07,113th,2014-08-18,Embarrassingly lost primary & majority leadership,USA Today,Other,VA,2014
+23,Trey Radel,R,FL-19,113th,2014-01-27,Cocaine possession,USA Today,Other scandals,FL,2014
+25,Rodney Alexander,R,LA-05,113th,2013-09-27,Appointed Louisiana VA secretary,Roll Call,Other office,LA,2013
+26,Jo Bonner,R,AL-01,113th,2013-08-02,Took a job with University of Alabama,Roll Call,Private sector,AL,2013
+29,Jo Ann Emerson,R,MO-08,113th,2013-01-22,Took a job with National Rural Electric Cooperative Association,Washington Post,Private sector,MO,2013
+30,Tim Scott,R,SC-01,112th,2013-01-02,Appointed U.S. senator,U.S. House of Representatives,Other office,SC,2013
+31,Jim DeMint,R,SC-SEN,112th,2013-01-01,Took a job with the Heritage Foundation,Washington Post,Private sector,SC,2013
+35,Geoff Davis,R,KY-04,112th,2012-07-31,"""Family health issue""",POLITICO,Health/family,KY,2012
+36,Thad McCotter,R,MI-11,112th,2012-07-06,Bungled presidential campaign led to family concerns,Washington Post,,MI,2012
+41,Dean Heller,R,NV-02,112th,2011-05-09,Appointed U.S. senator,Las Vegas Sun,Other office,NV,2011
+42,John Ensign,R,NV-SEN,112th,2011-05-03,Ethics investigation into extramarital affair,Washington Post,Consensual sex scandals,NV,2011
+44,Chris Lee,R,NY-26,112th,2011-02-09,Extramarital affair/shirtless photo,ABC News,Consensual sex scandals,NY,2011
+45,Mark Kirk,R,IL-10,111th,2010-11-29,Elected U.S. senator,Associated Press,Other office,IL,2010
+46,Mark Souder,R,IN-03,111th,2010-05-21,Extramarital affair,Washington Post,Consensual sex scandals,IN,2010
+47,Nathan Deal,R,GA-09,111th,2010-03-21,To focus on his run for governor; ethics investigation,CREW,,GA,2010
+51,John McHugh,R,NY-23,111th,2009-09-21,Appointed to Obama administration,New York Times,Other office,NY,2009
+52,Mel Martinez,R, FL-SEN,111th,2009-09-09,"""To move on,"" spend time with family; later joined lobbying firm",New York Times,, F,2009
+60,Tom Davis,R,VA-11,110th,2008-11-24,Took a job with Deloitte,Washington Post,Private sector,VA,2008
+63,Richard Baker,R,LA-06,110th,2008-02-02,Took a job with the Managed Funds Association,New Orleans Times-Picayune,Private sector,LA,2008
+64,Bobby Jindal,R,LA-01,110th,2008-01-14,Elected Louisiana governor,Reuters,Other office,LA,2008
+65,Roger Wicker,R,MS-01,110th,2007-12-31,Appointed U.S. senator,The Guardian,Other office,MS,2007
+66,Trent Lott,R,MS-SEN,110th,2007-12-18,"""Time left to do something else""; founded a lobbying firm",New York Times,Private sector,MS,2007
+67,Dennis Hastert,R,IL-14,110th,2007-11-26,"No reason given, but had lost the speaker's gavel",FOX News,Other,IL,2007
+69,Bob Ney,R,OH-18,109th,2006-11-03,Pleaded guilty to Abramoff influence-peddling scandal,Associated Press,Other scandals,OH,2006
+70,Mark Foley,R,FL-16,109th,2006-09-29,Sexting with underage pages (same-sex),Washington Post,Unwanted sexual contact,FL,2006
+71,Tom DeLay,R,TX-22,109th,2006-06-09,Campaign finance laundering & Abramoff scandal involvement,New York Times,Other scandals,TX,2006
+74,Duke Cunningham,R,CA-50,109th,2005-12-01,Bribery and tax evasion,San Diego Union-Tribune,Other scandals,CA,2005
+75,Christopher Cox,R,CA-48,109th,2005-08-02,Appointed to Bush administration,Securities & Exchange Commission,Other office,CA,2005
+76,Rob Portman,R,OH-02,109th,2005-04-29,Appointed to Bush administration,New York Times,Other office,OH,2005
+77,Porter Goss,R,FL-14,108th,2004-09-23,Appointed to Bush administration,CQ Almanac,Other office,FL,2004
+78,Doug Bereuter,R,NE-01,108th,2004-08-31,Took a job with the Asia Foundation,CQ Almanac,Private sector,NE,2004
+80,Bill Janklow,R,SD-AL,108th,2004-01-20,Convicted of manslaughter for a fatal car accident,Minnesota Public Radio,Other scandals,SD,2004
+81,Ernie Fletcher,R,KY-06,108th,2003-12-08,Elected Kentucky governor,Fletcher/Pence Inaugural,Other office,KY,2003
+82,Larry Combest,R,TX-19,108th,2003-05-31,"Wife lost DC-area job, wanted to spend more time with her",Plainview Daily Herald,Health/family,TX,2003
+83,Frank Murkowski,R,AK-SEN,107th,2002-12-02,Elected Alaska governor,U.S. Congress,Other office,AK,2002
+86,Steve Largent,R,OK-01,107th,2002-02-15,To focus on his run for governor,The Oklahoman,Other office,OK,2002
+87,Joe Scarborough,R,FL-01,107th,2001-09-05,To spend more time with his sons,Northwest Florida Daily News,Health/family,FL,2001
+88,Asa Hutchinson,R,AR-03,107th,2001-08-06,Appointed to Bush administration,Log Cabin Democrat,Other office,AR,2001
+89,Bud Shuster,R,PA-09,107th,2001-02-05,"Ethics rebuke; ""health scares""",ABC News,,PA,2001
+90,Bob Livingston,R,LA-01,106th,1999-03-01,Extramarital affairs,New York Times,Consensual sex scandals,LA,1999
+91,Newt Gingrich,R,GA-06,106th,1999-01-03,Faced caucus revolt after disappointing midterm,New York Times,Other,GA,1999
+95,Susan Molinari,R,NY-13,105th,1997-08-02,Took a job with CBS,CNN,Private sector,NY,1997
+98,Sam Brownback,R,KS-02,104th,1996-11-07,Elected U.S. senator,U.S. House of Representatives,Other office,KS,1996
+100,Bob Dole,R,KS-SEN,104th,1996-06-11,To focus on his run for president,U.S. Congress,Other office,KS,1996
+106,Bob Packwood,R,OR-SEN,104th,1995-10-01,Sexual harassment/assault,NPR,Unwanted sexual contact,OR,1995
+108,Jim Inhofe,R,OK-01,103rd,1994-11-15,Elected U.S. senator,U.S. Congress,Other office,OK,1994
+110,Bill Gradison,R,OH-02,103rd,1993-01-31,Took a job with Health Insurance Association of America,Science Corruption,Private sector,OH,1993
+118,French Slaughter,R,VA-07,102nd,1991-11-04,Series of strokes,Washington Post,Health/family,VA,1991
+121,Steve Bartlett,R,TX-03,102nd,1991-03-11,To focus on his run for Dallas mayor,D Magazine,Other office,TX,1991
+122,Ed Madigan,R,IL-15,102nd,1991-03-08,Appointed to Bush administration,U.S. Congress,Other office,IL,1991
+123,Pete Wilson,R,CA-SEN,102nd,1991-01-07,Elected California governor,U.S. Congress,Other office,CA,1991
+124,Bob Smith,R,NH-01,101st,1990-12-07,Appointed U.S. senator,U.S. Congress,Other office,NH,1990
+125,Gordon Humphrey,R,NH-SEN,101st,1990-12-04,Elected New Hampshire state senator,UPI,Other office,NH,1990
+129,Guy Molinari,R,NY-14,101st,1989-12-31,Elected Staten Island borough president,U.S. House of Representatives,Other office,NY,1989
+132,Dick Cheney,R,WY-AL,101st,1989-03-17,Appointed to Bush administration,U.S. Congress,Other office,WY,1989
+133,Dan Quayle,R,IN-SEN,101st,1989-01-03,Elected vice president,U.S. Congress,Other office,IN,1989
+134,Dan Coats,R,IN-04,101st,1989-01-03,Appointed U.S. senator,U.S. Congress,Other office,IN,1989
+139,Jim Broyhill,R,NC-10,99th,1986-07-13,Appointed U.S. senator,U.S. Congress,Other office,NC,1986
+143,Tom Corcoran,R,IL-14,98th,1984-11-28,Recess-appointed to Synthetic Fuels Corporation board,Nexis search,Private sector,IL,1984
+146,Nicholas Brady,R,NJ-SEN,97th,1982-12-26,Appointment was expiring; resigned to let successor start early,New York Times,Left early,NJ,1982
+150,Jon Hinson,R,MS-04,97th,1981-04-13,Extramarital affair (same-sex),Zimbio,Consensual sex scandals,MS,1981
+153,David Stockman,R,MI-04,97th,1981-01-27,Appointed to Reagan administration,The Atlantic,Other office,MI,1981
+162,Dave Treen,R,LA-03,96th,1980-03-10,Elected Louisiana governor,U.S. House of Representatives,Other office,LA,1980
+165,William Scott,R,VA-SEN,95th,1979-01-01,Retired; resigned early to give successor seniority,Washington Post,Left early,VA,1979
+168,Del Clawson,R,CA-33,95th,1978-12-31,Retired; probably resigned early to receive higher pension?,Washington Post,Left early,CA,1978
+169,Joe Skubitz,R,KS-05,95th,1978-12-31,Retired; resigned early to give successor seniority,Salina Journal,Left early,KS,1978
+170,Al Cederberg,R,MI-10,95th,1978-12-31,Lost reelection; probably resigned early to receive higher pension?,U.S. House of Representatives,Left early,MI,1978
+175,Clifford Hansen,R,WY-SEN,95th,1978-12-31,Retired; resigned early to give successor seniority,Associated Press,Left early,WY,1978
+179,Thad Cochran,R,MS-04,95th,1978-12-26,Appointed U.S. senator,U.S. Congress,Other office,MS,1978
+180,James Pearson,R,KS-SEN,95th,1978-12-23,Retired; resigned early to give successor seniority,Lawrence Journal-World,Left early,KS,1978
+195,Robert Taft Jr.,R,OH-SEN,94th,1976-12-28,Lost reelection bid; resigned to let successor start early,Coshocton Tribune,Left early,OH,1976
+198,Roman Hruska,R,NE-SEN,94th,1976-12-27,Retired; resigned early to give successor seniority,Lincoln Star,Left early,NE,1976
+201,James Hastings,R,NY-39,94th,1976-01-20,Took a job with Associated Industries of New York,Milwaukee Journal,Private sector,NY,1976
+202,Norris Cotton,R,NH-SEN,94th,1975-09-18,To yield to the winner of the controversial NH-SEN re-vote,U.S. Congress,Other,NH,1975
+205,Charles Gubser,R,CA-10,93rd,1974-12-31,Retired; probably resigned early to receive higher pension?,U.S. Congress,Left early,CA,1974
+207,Craig Hosmer,R,CA-32,93rd,1974-12-31,Retired; probably resigned early to receive higher pension?,U.S. Congress,Left early,CA,1974
+209,Ed Gurney,R,FL-SEN,93rd,1974-12-31,"Retired; might've left early for pension, seniority, or indictment",Orlando Sentinel,,FL,1974
+210,Leslie Arends,R,IL-15,93rd,1974-12-31,Retired; probably resigned early to receive higher pension?,U.S. Congress,Left early,IL,1974
+214,Charles Chamberlain,R,MI-06,93rd,1974-12-31,Retired; probably resigned early to receive higher pension?,U.S. Congress,Left early,MI,1974
+216,Ancher Nelsen,R,MN-02,93rd,1974-12-31,Retired; probably resigned early to receive higher pension?,U.S. Congress,Left early,MN,1974
+218,David Martin,R,NE-03,93rd,1974-12-31,Retired; probably resigned early to receive higher pension?,U.S. Congress,Left early,NE,1974
+219,Norris Cotton,R,NH-SEN,93rd,1974-12-31,Retired; might've left early for pension or to force R appointment in controversial NH-SEN,U.S. Senate,,NH,1974
+220,Louis Wyman,R,NH-01,93rd,1974-12-31,Appointed U.S. senator,U.S. Congress,Other office,NH,1974
+221,William Widnall,R,NJ-07,93rd,1974-12-31,Lost reelection; probably resigned early to receive higher pension?,U.S. Congress,Left early,NJ,1974
+224,Carleton King,R,NY-29,93rd,1974-12-31,Lost reelection; probably resigned early to receive higher pension?,U.S. Congress,Left early,NY,1974
+227,William Minshall,R,OH-23,93rd,1974-12-31,Retired; probably resigned early to receive higher pension?,U.S. Congress,Left early,OH,1974
+233,Joel Broyhill,R,VA-10,93rd,1974-12-31,Lost reelection; probably resigned early to receive higher pension?,U.S. Congress,Left early,VA,1974
+235,Vernon Thomson,R,WI-03,93rd,1974-12-31,Lost reelection; probably resigned early to receive higher pension?,U.S. Congress,Left early,WI,1974
+236,Glenn Davis,R,WI-09,93rd,1974-12-31,Lost reelection; probably resigned early to receive higher pension?,U.S. Congress,Left early,WI,1974
+237,Marlow Cook,R,KY-SEN,93rd,1974-12-27,Lost reelection bid; resigned to let successor start early,"""Kentucky's Governors""",Left early,KY,1974
+239,Wallace Bennett,R,UT-SEN,93rd,1974-12-20,Retired; resigned early to give successor seniority,New York Times,Left early,UT,1974
+241,Bill Mailliard,R,CA-06,93rd,1974-03-05,Appointed to Nixon administration,New York Times,Other office,CA,1974
+242,James Harvey,R,MI-08,93rd,1974-01-31,Appointed federal judge,Ballotpedia,Other office,MI,1974
+243,Bill Saxbe,R,OH-SEN,93rd,1974-01-03,Appointed to Nixon administration,American Presidency Project,Other office,OH,1974
+244,William Keating,R,OH-01,93rd,1974-01-03,Took a job with Cincinnati Enquirer,Toledo Blade,Private sector,OH,1974
+245,Gerald Ford,R,MI-05,93rd,1973-12-06,Appointed vice president,U.S. Congress,Other office,MI,1973
+247,Dick Poff,R,VA-06,92nd,1972-08-29,Appointed to Virginia Supreme Court,Washington Post,Other office,VA,1972
+249,Bradford Morse,R,MA-05,92nd,1972-05-01,Took a job with United Nations,Los Angeles Times,Private sector,MA,1972
+250,Charlotte Reid,R,IL-15,92nd,1971-10-07,Appointed to Nixon administration,U.S. House of Representatives,Other office,IL,1971
+251,Robert Stafford,R,VT-AL,92nd,1971-09-16,Appointed U.S. senator,U.S. Congress,Other office,VT,1971
+252,Rogers Morton,R,MD-01,92nd,1971-01-29,Appointed to Nixon administration,Washington Post,Other office,MD,1971
+253,George Murphy,R,CA-SEN,91st,1971-01-02,Lost reelection bid & left early; unclear why,New York Times,Left early,CA,1971
+255,John Williams,R,DE-SEN,91st,1970-12-31,Retired; resigned early to give successor seniority,Delaware Historical Society,Left early,DE,1970
+256,William Roth,R,DE-AL,91st,1970-12-31,Appointed U.S. senator,Delaware Historical Society,Other office,DE,1970
+257,Bill Cahill,R,NJ-06,91st,1970-01-19,Elected New Jersey governor,U.S. Congress,Other office,NJ,1970
+259,Donald Rumsfeld,R,IL-13,91st,1969-05-25,Appointed to Nixon administration,White House,Other office,IL,1969
+260,James Battin,R,MT-02,91st,1969-02-27,Appointed federal judge,U.S. Congress,Other office,MT,1969
+261,Ed Reinecke,R,CA-27,91st,1969-01-21,Appointed California lieutenant governor,Lieutenant Governor Blog,Other office,CA,1969
+262,Melvin Laird,R,WI-07,91st,1969-01-21,Appointed to Nixon administration,U.S. Congress,Other office,WI,1969
+263,Paul Fino,R,NY-24,90th,1968-12-31,Elected New York Supreme Court justice,U.S. Congress,Other office,NY,1968
+265,Thruston Morton,R,KY-SEN,90th,1968-12-16,Retired; resigned early to give successor seniority,Orlando Sentinel,Left early,KY,1968
+270,Ralph Harvey,R,IN-10,89th,1966-12-30,Lost reelection; resigned early to receive higher pension,Indianapolis Star,Left early,IN,1966
+274,Paul Dague,R,PA-09,89th,1966-12-30,Retired; resigned early to receive higher pension,Indianapolis Star,Left early,PA,1966
+275,John Kunkel,R,PA-16,89th,1966-12-30,Retired; resigned early to receive higher pension,Indianapolis Star,Left early,PA,1966
+279,Robert Griffin,R,MI-09,89th,1966-05-10,Appointed U.S. senator,U.S. Congress,Other office,MI,1966
+281,John Lindsay,R,NY-17,89th,1965-12-31,Elected New York City mayor,U.S. Congress,Other office,NY,1965
+302,Albert Bosch,R,NY-05,86th,1960-12-31,Elected Queens County judge,U.S. Congress,Other office,NY,1960
+306,Henry Latham,R,NY-04,85th,1958-12-31,Elected New York Supreme Court justice,U.S. Congress,Other office,NY,1958
+307,Richard Wigglesworth,R,MA-13,85th,1958-11-13,Appointed to Eisenhower administration,U.S. Congress,Other office,MA,1958
+309,Sterling Cole,R,NY-37,85th,1957-12-01,Took a job with International Atomic Energy Agency,U.S. Congress,Private sector,NY,1957
+310,Samuel K. McConnell,R,PA-13,85th,1957-09-01,Took a job with United Cerebral Palsy Associations,U.S. Congress,Private sector,PA,1957
+316,Hazel Abel,R,NE-SEN,83rd,1954-12-31,Elected as caretaker; resigned to let successor start early,"""Oxford Handbook of Southern Politics""",Left early,NE,1954
+317,Carl Curtis,R,NE-01,83rd,1954-12-31,Appointed U.S. senator,U.S. Congress,Other office,NE,1954
+318,Jacob Javits,R,NY-21,83rd,1954-12-31,Elected New York attorney general,U.S. Congress,Other office,NY,1954
+320,George Bender,R,OH-23,83rd,1954-12-15,Elected U.S. senator,U.S. Congress,Other office,OH,1954
+321,Roman Hruska,R,NE-02,83rd,1954-11-08,Elected U.S. senator,U.S. Congress,Other office,NE,1954
+322,Norris Cotton,R,NH-02,83rd,1954-11-07,Elected U.S. senator,U.S. Congress,Other office,NH,1954
+325,Clifford Case,R,NJ-06,83rd,1953-08-16,Took a job with Ford Foundation's Fund for the Republic,New York Times,Private sector,NJ,1953
+326,Norris Poulson,R,CA-24,83rd,1953-07-11,Elected Los Angeles mayor,New York Times,Other office,CA,1953
+328,Richard Nixon,R,CA-SEN,82nd,1953-01-01,Elected vice president,U.S. Congress,Other office,CA,1953
+329,Owen Brewster,R,ME-SEN,82nd,1952-12-31,Lost reelection bid & left early; unclear why,U.S. Congress,Left early,ME,1952
+330,Leonard Hall,R,NY-02,82nd,1952-12-31,Elected Nassau County surrogate,U.S. Congress,Other office,NY,1952
+331,Charles Potter,R,MI-11,82nd,1952-11-04,Elected U.S. senator,U.S. Congress,Other office,MI,1952
+336,Harry Towe,R,NJ-09,82nd,1951-09-07,Appointed New Jersey deputy attorney general,New York Times,Other office,NJ,1951
+339,Frank Barrett,R,WY-AL,81st,1950-12-31,Elected Wyoming governor,U.S. Congress,Other office,WY,1950
+341,Richard Nixon,R,CA-12,81st,1950-11-30,Appointed U.S. senator,U.S. Congress,Other office,CA,1950
+343,J. Parnell Thomas,R,NJ-07,81st,1950-01-02,Convicted of fraud,New York Observer,Other scandals,NJ,1950
+344,Raymond Baldwin,R,CT-SEN,81st,1949-12-16,Appointed Connecticut Supreme Court justice,New York Times,Other office,CT,1949
+348,Karl Mundt,R,SD-01,80th,1948-12-30,Appointed U.S. senator,U.S. Congress,Other office,SD,1948
+349,Vera Bushfield,R,SD-SEN,80th,1948-12-26,Appointment was expiring; resigned to let successor start early,U.S. House of Representatives,Left early,SD,1948
+350,Noble Johnson,R,IN-06,80th,1948-07-01,Appointed federal judge,U.S. Congress,Other office,IN,1948
+354,Evan Howell,R,IL-21,80th,1947-10-05,Appointed federal judge,U.S. Congress,Other office,IL,1947
+356,Robert Jones,R,OH-04,80th,1947-09-02,Appointed to Truman administration,U.S. Congress,Other office,OH,1947
+361,Henry Dworshak,R,ID-02,79th,1946-11-05,Elected U.S. senator,U.S. Congress,Other office,ID,1946
+363,Warren Austin,R,VT-SEN,79th,1946-08-02,Appointed to Truman administration,U.S. Congress,Other office,VT,1946
+372,Harold Burton,R,OH-SEN,79th,1945-09-30,Appointed to U.S. Supreme Court,U.S. Congress,Other office,OH,1945
+373,Lane Powers,R,NJ-04,79th,1945-08-30,Appointed to New Jersey Public Utilities Commission,U.S. Congress,Other office,NJ,1945
+378,William Troutman,R,PA-AL,78th,1945-01-02,"Unclear, but sounds like he was elected to PA State Senate",U.S. Congress,Other office,PA,1945
+388,Henry Cabot Lodge Jr.,R,MA-SEN,78th,1944-02-03,Joined the Army,U.S. Congress,Military service,MA,1944
+391,James Van Zandt,R,PA-23,78th,1943-09-24,Joined the Navy,U.S. Congress,Military service,PA,1943
+399,A.D. Baumhart Jr.,R,OH-13,77th,1942-09-02,Joined the Navy,U.S. Congress,Military service,OH,1942
+423,Arthur Jenks,R,NH-01,75th,1938-06-09,His election was successfully contested & overturned,U.S. House of Representatives,Election overturned,NH,1938
+425,Frederick Steiwer,R,OR-SEN,75th,1938-01-31,Returned to his law practice,New York Times,Private sector,OR,1938
+432,Charles Millard,R,NY-25,75th,1937-09-29,Elected Westchester County surrogate,U.S. Congress,Other office,NY,1937
+444,James Beck,R,PA-02,73rd,1934-09-30,"Frustrated with Congress, could fight the New Deal better in court",Indiana Gazette,Other,PA,1934
+447,Ernest Gibson,R,VT-AL,73rd,1933-10-19,Appointed U.S. senator,U.S. Congress,Other office,VT,1933
+456,John Tilson,R,CT-03,72nd,1932-12-03,"Went back to ""private life"" to make money",Associated Press,Private sector,CT,1932
+458,Frederick Dallinger,R,MA-08,72nd,1932-10-01,Appointed federal judge,U.S. Congress,Other office,MA,1932
+459,George Welsh,R,PA-06,72nd,1932-05-31,Appointed federal judge,U.S. Congress,Other office,PA,1932
+460,Peter Granata,R,IL-08,72nd,1932-04-05,His election was successfully contested & overturned,U.S. Congress,Election overturned,IL,1932
+461,Russell Leech,R,PA-20,72nd,1932-01-29,Appointed federal judge,U.S. Congress,Other office,PA,1932
+465,John Robsion,R,KY-11,71st,1930-01-10,Appointed U.S. senator,U.S. Congress,Other office,KY,1930
+466,Fred Sackett,R,KY-SEN,71st,1930-01-09,Appointed to Hoover administration,U.S. Congress,Other office,KY,1930
+468,Walter Edge,R,NJ-SEN,71st,1929-11-21,Appointed to Hoover administration,U.S. Congress,Other office,NJ,1929
+469,Thomas Williams,R,IL-24,71st,1929-11-11,Appointed federal judge,U.S. Congress,Other office,IL,1929
+470,Walter Newton,R,MN-05,71st,1929-06-30,Appointed to Hoover administration,U.S. Congress,Other office,MN,1929
+471,Charles Curtis,R,KS-SEN,70th,1929-03-03,Elected vice president,U.S. Congress,Other office,KS,1929
+472,Clarence MacGregor,R,NY-41,70th,1928-12-31,Elected New York Supreme Court justice,U.S. Congress,Other office,NY,1928
+473,Theodore Burton,R,OH-22,70th,1928-12-15,Elected U.S. senator,U.S. Congress,Other office,OH,1928
+474,Coleman du Pont,R,DE-SEN,70th,1928-12-09,Ill health,"""The Polluters""",Health/family,DE,1928
+476,Nicholas Sinnott,R,OR-02,70th,1928-05-31,Appointed federal judge,U.S. Congress,Other office,OR,1928
+477,William Green,R,IA-09,70th,1928-03-31,Appointed federal judge,U.S. Congress,Other office,IA,1928
+478,James Hazlett,R,PA-01,70th,1927-10-20,"Hard to find, but probably elected Philadelphia recorder of deeds?",Scranton Republican,Other office,PA,1927
+480,Smith Brookhart,R,IA-SEN,69th,1926-04-12,His election was successfully contested & overturned,U.S. Congress,Election overturned,IA,1926
+481,John Langley,R,KY-10,69th,1926-01-11,Convicted of violating Prohibition laws,Lexington Herald-Leader,Other scandals,KY,1926
+482,George Young,R,ND-02,68th,1924-09-02,Appointed federal judge,U.S. Congress,Other office,ND,1924
+483,William Graham,R,IL-14,68th,1924-06-07,Appointed federal judge,U.S. Congress,Other office,IL,1924
+485,Porter Dale,R,VT-02,68th,1923-08-11,To focus on his run for Senate,U.S. Congress,Other office,VT,1923
+486,Stanley Webster,R,WA-05,68th,1923-05-08,Appointed federal judge,Spokane Spokesman-Review,Other office,WA,1923
+487,Horace Towner,R,IA-08,68th,1923-04-01,Appointed Puerto Rico governor,U.S. Congress,Other office,IA,1923
+488,William Vare,R,PA-01,67th,1923-01-02,Elected to PA State Senate,Reading Times,Other office,PA,1923
+490,Frank Millspaugh,R,MO-01,67th,1922-12-05,Appointed state finance commissioner,Jefferson City Post-Tribune,Other office,MO,1922
+491,Truman Newberry,R,MI-SEN,67th,1922-11-18,Faced a vigorous election challenge due to his unethical campaign,U.S. Senate,Other scandals,MI,1922
+492,Joseph Walsh,R,MA-16,67th,1922-08-02,Appointed Massachusetts judge,U.S. Congress,Other office,MA,1922
+493,Frank Reavis,R,NE-01,67th,1922-06-03,Appointed to Harding administration,U.S. Congress,Other office,NE,1922
+494,Alanson Houghton,R,NY-37,67th,1922-02-28,Appointed to Harding administration,U.S. Congress,Other office,NY,1922
+495,William Kenyon,R,IA-SEN,67th,1922-02-24,Appointed federal judge,University of Iowa,Other office,IA,1922
+496,John Peters,R,ME-03,67th,1922-01-02,Appointed federal judge,Maine: An Encyclopedia,Other office,ME,1922
+498,Willfred Lufkin,R,MA-06,67th,1921-06-30,Appointed collector of customs at Port of Boston,U.S. Congress,Other office,MA,1921
+499,James Good,R,IA-05,67th,1921-06-15,Took a job with a Chicago law firm,New York Times,Private sector,IA,1921
+500,Albert Fall,R,NM-SEN,67th,1921-03-04,Appointed to Harding administration,U.S. Congress,Other office,NM,1921
+503,Warren Harding,R,OH-SEN,66th,1921-01-13,Elected president,U.S. Congress,Other office,OH,1921
+504,Alvan Fuller,R,MA-09,66th,1921-01-05,Elected Massachusetts lieutenant governor,U.S. Congress,Other office,MA,1921
+505,John MacCrate,R,NY-03,66th,1920-12-30,Elected New York Supreme Court justice,U.S. Congress,Other office,NY,1920
+507,Edmund Platt,R,NY-26,66th,1920-06-07,Appointed to Federal Reserve,U.S. Congress,Other office,NY,1920
+509,Hampton Moore,R,PA-03,66th,1920-01-04,Elected Philadelphia mayor,U.S. Congress,Other office,PA,1920
+510,Reuben Haskell,R,NY-10,66th,1919-12-31,Elected Kings County judge,U.S. Congress,Other office,NY,1919
+511,Fiorello La Guardia,R,NY-14,66th,1919-12-31,Elected New York City Board of Aldermen president,U.S. Congress,Other office,NY,1919
+520,John R.K. Scott,R,PA-AL,65th,1919-01-05,"Unclear, but sounds like he was elected to PA State House",Pennsylvania House of Representatives,Other office,PA,1919
+521,Frederick Mulkey,R,OR-SEN,65th,1918-12-17,Resigned early to give successor seniority (was always meant as a caretaker),Oregon Blue Book,Left early,OR,1918
+523,Irvine Lenroot,R,WI-11,65th,1918-04-17,Elected U.S. senator,U.S. Congress,Other office,WI,1918
+529,Mark Bacon,R,MI-02,65th,1917-12-13,His election was successfully contested & overturned,U.S. Congress,Election overturned,MI,1917
+530,Augustus Gardner,R,MA-06,65th,1917-05-15,Joined the Army,U.S. Congress,Military service,MA,1917
+531,Orrin Bleakley,R,PA-28,65th,1917-04-03,Convicted of spending too much money on his campaign,PoliticsPA,Other scandals,PA,1917
+533,William Stephens,R,CA-10,64th,1916-07-22,Appointed California lieutenant governor,U.S. Congress,Other office,CA,1916
+537,Frank Willis,R,OH-08,63rd,1915-01-09,Elected Ohio governor,U.S. Congress,Other office,OH,1915
+547,L.C. Dyer,R,MO-12,63rd,1914-06-19,His election was successfully contested & overturned,U.S. Congress,Election overturned,MO,1914
+552,Olin Young,R,MI-12,63rd,1913-05-16,Turned out votes were miscounted & he didn't win election,Congressional Record,Election overturned,MI,1913
+554,John Weeks,R,MA-12,62nd,1913-03-04,Elected U.S. senator,U.S. Congress,Other office,MA,1913
+558,L.B. Hanna,R,ND-AL,62nd,1913-01-07,Elected North Dakota governor,U.S. Congress,Other office,ND,1913
+561,Charles Bowman,R,PA-11,62nd,1912-12-12,His election was successfully contested & overturned,U.S. Congress,Election overturned,PA,1912
+563,Theron Catlin,R,MO-11,62nd,1912-08-12,His election was successfully contested & overturned,U.S. Congress,Election overturned,MO,1912
+564,William Lorimer,R,IL-SEN,62nd,1912-07-13,Election declared invalid,U.S. Senate,Election overturned,IL,1912
+566,Walter Smith,R,IA-09,62nd,1911-03-15,Appointed federal judge,U.S. Congress,Other office,IA,1911
+567,Asle Gronna,R,ND-AL,61st,1911-02-02,Elected U.S. senator,U.S. Congress,Other office,ND,1911
+568,John Reynolds,R,PA-19,61st,1911-01-17,Elected Pennsylvania lieutenant governor,U.S. Congress,Other office,PA,1911
+569,John Tener,R,PA-24,61st,1911-01-16,Elected Pennsylvania governor,U.S. Congress,Other office,PA,1911
+573,William Lorimer,R,IL-06,61st,1909-06-17,Elected U.S. senator,U.S. Congress,Other office,IL,1909
+574,Theodore Burton,R,OH-21,60th,1909-03-04,Elected U.S. senator,U.S. Congress,Other office,OH,1909
+575,Philander Knox,R,PA-SEN,60th,1909-03-04,Appointed to Taft administration,U.S. Congress,Other office,PA,1909
+577,George Lilley,R,CT-AL,60th,1909-01-06,Seat vacated when he became Connecticut governor,U.S. Congress,Other office,CT,1909
+578,Charles Brumm,R,PA-12,60th,1909-01-04,Elected Pennsylvania judge,U.S. Congress,Other office,PA,1909
+579,Charles Littlefield,R,ME-02,60th,1908-09-30,Returned to his law practice,San Francisco Call,Private sector,ME,1908
+580,John Spooner,R,WI-SEN,60th,1907-04-30,Resumed practicing law,Sacramento Union,Private sector,WI,1907
+581,John Reyburn,R,PA-02,60th,1907-03-31,Elected Philadelphia mayor,U.S. Congress,Other office,PA,1907
+582,William Alden Smith,R,MI-05,59th,1907-02-09,Elected U.S. senator,U.S. Congress,Other office,MI,1907
+583,Charles Curtis,R,KS-01,59th,1907-01-28,Elected U.S. senator,U.S. Congress,Other office,KS,1907
+585,Newton Gilbert,R,IN-12,59th,1906-11-06,Appointed federal judge,U.S. Congress,Other office,IN,1906
+587,James Gillett,R,CA-01,59th,1906-11-04,Elected California governor,U.S. Congress,Other office,CA,1906
+590,Joseph Burton,R,KS-SEN,59th,1906-06-04,Convicted of corruption,U.S. Senate,Other scandals,KS,1906
+592,Frank Brandegee,R,CT-03,59th,1905-05-10,Elected U.S. senator,U.S. Congress,Other office,CT,1905
+593,Alston Dayton,R,WV-02,59th,1905-03-16,Appointed federal judge,U.S. Congress,Other office,WV,1905
+594,Elmer Burkett,R,NE-01,58th,1905-03-04,Elected U.S. senator,U.S. Congress,Other office,NE,1905
+595,Charles Fairbanks,R,IN-SEN,58th,1905-03-03,Elected vice president,U.S. Congress,Other office,IN,1905
+596,James Hemenway,R,IN-01,58th,1905-03-03,Elected U.S. senator,U.S. Congress,Other office,IN,1905
+597,Victor Metcalf,R,CA-03,58th,1904-07-01,Appointed to Roosevelt administration,U.S. Congress,Other office,CA,1904
+598,William Lanning,R,NJ-04,58th,1904-06-06,Appointed federal judge,U.S. Congress,Other office,NJ,1904
+599,Charles Dick,R,OH-19,58th,1904-03-23,Elected U.S. senator,U.S. Congress,Other office,OH,1904
+604,Joseph Gill,R,OH-16,58th,1903-10-31,Ill health,New York Times,Health/family,OH,1903
+605,Chester Long,R,KS-07,57th,1903-03-04,Elected U.S. senator,U.S. Congress,Other office,KS,1903
+606,Heisler Ball,R,DE-AL,57th,1903-03-03,Elected U.S. senator,U.S. Congress,Other office,DE,1903
+610,George Ray,R,NY-26,57th,1902-09-11,Appointed federal judge,U.S. Congress,Other office,NY,1902
+612,William Moody,R,MA-06,57th,1902-05-01,Appointed to Roosevelt administration,U.S. Congress,Other office,MA,1902

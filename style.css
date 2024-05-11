@@ -1,1 +1,8 @@
+h1 {
+	color: black;
+	text-align: center;
+}
 
+#my_dataviz {
+    border: 3 px solid black;
+}
