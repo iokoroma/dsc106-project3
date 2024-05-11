@@ -1,77 +1,94 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
+<html lang="en">
 
-<!-- Load d3.js -->
-<script src="https://d3js.org/d3.v4.js"></script>
+<head>
+    <!-- Load d3.js -->
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website Title</title>
+    <!-- CSS stylesheets can be linked here -->
+    <link rel="stylesheet" href="styles.css">
 
-<!-- Create a div where the graph will take place -->
-<div id="my_dataviz"></div>
+    <script>
+        // set the dimensions and margins of the graph
+        var margin = { top: 10, right: 30, bottom: 30, left: 60 },
+            width = 460 - margin.left - margin.right,
+            height = 400 - margin.top - margin.bottom;
 
-<script>
+        // append the svg object to the body of the page
+        var svg = d3.select("#my_dataviz")
+            .append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+            .attr("transform",
+                "translate(" + margin.left + "," + margin.top + ")");
 
-// set the dimensions and margins of the graph
-var margin = {top: 10, right: 30, bottom: 30, left: 60},
-    width = 460 - margin.left - margin.right,
-    height = 400 - margin.top - margin.bottom;
+        //Read the data
+        d3.csv("CLEANED_CSVs/test2.csv", function (data) {
 
-// append the svg object to the body of the page
-var svg = d3.select("#my_dataviz")
-  .append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-    .attr("transform",
-          "translate(" + margin.left + "," + margin.top + ")");
+            // Parse date string to date object
+            var parseDate = d3.timeParse("%Y-%m-%d");
 
-//Read the data
-d3.csv("CLEANED_CSVs/test2.csv", function(data) {
+            // Parse the dates in the data
+            data.forEach(function (d) {
+                d['Resignation Date'] = parseDate(d['Resignation Date']);
+            });
 
-    // Parse date string to date object
-    var parseDate = d3.timeParse("%Y-%m-%d");
+            // Group data by year and count rows for each year
+            var countsByYear = d3.nest()
+                .key(function (d) { return d['Resignation Date'].getFullYear(); })
+                .rollup(function (v) { return v.length; })
+                .entries(data);
 
-    // Parse the dates in the data
-    data.forEach(function(d) {
-        d['Resignation Date'] = parseDate(d['Resignation Date']);
-    });
+            // Create a map to store counts by year
+            var countByYearMap = {};
+            countsByYear.forEach(function (d) {
+                countByYearMap[d.key] = d.value;
+            });
 
-    // Group data by year and count rows for each year
-    var countsByYear = d3.nest()
-        .key(function(d) { return d['Resignation Date'].getFullYear(); })
-        .rollup(function(v) { return v.length; })
-        .entries(data);
+            // Add X axis
+            var x = d3.scaleTime()
+                .domain(d3.extent(data, function (d) { return d['Resignation Date']; }))
+                .range([0, width]);
+            svg.append("g")
+                .attr("transform", "translate(0," + height + ")")
+                .call(d3.axisBottom(x));
 
-    // Create a map to store counts by year
-    var countByYearMap = {};
-    countsByYear.forEach(function(d) {
-        countByYearMap[d.key] = d.value;
-    });
+            // Add Y axis
+            var y = d3.scaleLinear()
+                .domain([0, d3.max(countsByYear, function (d) { return d.value; })])
+                .range([height, 0]);
+            svg.append("g")
+                .call(d3.axisLeft(y));
 
-    // Add X axis
-    var x = d3.scaleTime()
-      .domain(d3.extent(data, function(d) { return d['Resignation Date']; }))
-      .range([0, width]);
-    svg.append("g")
-      .attr("transform", "translate(0," + height + ")")
-      .call(d3.axisBottom(x));
+            // Add the line
+            svg.append("path")
+                .datum(countsByYear)
+                .attr("fill", "none")
+                .attr("stroke", "steelblue")
+                .attr("stroke-width", 1.5)
+                .attr("d", d3.line()
+                    .x(function (d) { return x(parseDate(d.key + "-01-01")); })
+                    .y(function (d) { return y(d.value); })
+                );
 
-    // Add Y axis
-    var y = d3.scaleLinear()
-      .domain([0, d3.max(countsByYear, function(d) { return d.value; })])
-      .range([height, 0]);
-    svg.append("g")
-      .call(d3.axisLeft(y));
+        });
 
-    // Add the line
-    svg.append("path")
-      .datum(countsByYear)
-      .attr("fill", "none")
-      .attr("stroke", "steelblue")
-      .attr("stroke-width", 1.5)
-      .attr("d", d3.line()
-        .x(function(d) { return x(parseDate(d.key + "-01-01")); })
-        .y(function(d) { return y(d.value); })
-      );
+    </script>
 
-});
 
-</script>
+</head>
+
+<body>
+
+    <!-- Your website content goes here -->
+    <h1>HI</h1>
+
+    <!-- Load d3.js -->
+    <script src="https://d3js.org/d3.v4.js"></script>
+
+</body>
+
+</html>
