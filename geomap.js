@@ -13,7 +13,7 @@ function buildChart(us, resignationData) {
     .attr("viewBox", [0, 0, width, height])
     .attr("width", width)
     .attr("height", height)
-    .attr("style", "max-width: 100%; height: auto; font: 15px sans-serif;")
+    .attr("style", "max-width: 100%; height: auto; font: bold 15px sans-serif;")
     .on("click", reset);
 
   const path = d3.geoPath();
@@ -28,20 +28,20 @@ function buildChart(us, resignationData) {
     .attr("width", secWidth)
     .attr("height", secHeight)
     .attr("viewBox", [-secWidth / 2, -secHeight / 2, secWidth, secHeight])
-    .attr("style", "max-width: 100%; height: auto; font: 10px sans-serif;");
+    .attr("style", "max-width: 100%; height: auto; font: 12px sans-serif;");
 
   // manipulate data 
   enrichData(resignationData);
   console.log(resignationData[0])
   let resignationsByState = d3.group(resignationData, e => e.StateFullname);
-  // let resignationCategories = [...d3.group(resignationData, e => e.Category).keys()];
+  let resignationCategories = [...d3.group(resignationData, e => e.Category).keys()];
   // console.log(resignationsByState);
-  // console.log(resignationCategories);
+  console.log(resignationCategories);
 
   let colorScale = d3.scaleLinear()
     // max domain value is the lenght of the resignations array for each state
     .domain([0, d3.max(resignationsByState, e => e[1].length)])
-    .range(["white", "green"])
+    .range(["white", "purple"])
 
   const states = g.append("g")
     .selectAll("path")
@@ -315,12 +315,25 @@ function enrichData(resignationData) {
     "WI": "Wisconsin",
     "WY": "Wyoming"
   };
+
+  var categories = {
+    "Private sector":"Pvt Office",
+    "Unwanted sexual contact":"Sex",
+    "Consensual sex scandals":"Sex",
+    "Other office":"OtherOffice",
+    "Other scandals":"Scandal",
+    "Other":"Other",
+    "Health/family":"Family",
+    "Left early":"LeftEarly",
+    "Military service":"Military",
+    "Election overturned":"Overturned"
+  };
   var parseDate = d3.timeParse("%Y-%m-%d");
   resignationData.forEach((d) => {
     d['StateFullname'] = states[d.State];
     d['Resignation Date'] = parseDate(d['Resignation Date']);
     d['CongressNumber'] = +d.Congress.slice(0, -2);
-    d['Category'] = d.Category ? d.Category : "NotSpecified";
+    d['Category'] = d.Category ? categories[d.Category] : "N/A";
   });
 
 }
@@ -329,6 +342,6 @@ Promise.all([
   d3.json("data/us.json"),
   d3.csv("data/resignations.csv")
 ]).then(([geoJSONdata, resignationData]) => {
-  svgNode = buildChart(geoJSONdata, resignationData);
+   buildChart(geoJSONdata, resignationData);
 
 });
