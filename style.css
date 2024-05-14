@@ -1,3 +1,5 @@
+body { background-color: #9ad6d6; }
+
 h1 {
 	color: black;
 	text-align: center;
@@ -15,7 +17,13 @@ h3 {
 	font-size: 20px;
 }
 
-#my_dataviz {
+
+p {
+	text-align: center;
+	font-size: 15px;
+}
+
+#primary_viz {
 	justify-content: center;
     border: 3 px solid black;
 }
