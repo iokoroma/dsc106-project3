@@ -33,7 +33,7 @@
 <script src="geomap.js" ></script>
 
 <h2 id="write_up_title">Write Up:</h2>
-<p id="write_up_text"><strong>Data Cleaning and Processing</strong> 
+<p id="write_up_text"><br><strong>Data Cleaning and Processing</strong> 
 
 We begin our process with some basic data cleaning. Since D3 is unable to compile if we have any NaN values in our dataset, our first step was to find any of those rows and either delete the row altogether or find some way to impute the information if it made sense to. Places that we imputed included the category column where we created a new category called “category non specified” in cases where this entry was NaN in our dataset. Given that the number of rows containing NaN values was quite small compared to our full dataset, we did not lose out on too much significant information by simply deleting those rows. The column that gave the individual reason why each congressperson resigned involved a single-letter code which we needed to translate back to their full description in order to make our pie chart visuals. In terms of adjusting the state names, all of the states are encoded with their two-letter abbreviations while the visuals use the full name which required us to programmatically get the full name.
 
