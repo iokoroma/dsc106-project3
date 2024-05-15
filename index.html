@@ -33,6 +33,27 @@
 <script src="geomap.js" ></script>
 
 <h2 id="write_up_title">Write Up:</h2>
-<p id="write_up_text">Once we finish actually making the write up we can just copy paste everything in it in place of this text.</p>
+<p id="write_up_text"><strong>Data Cleaning and Processing</strong> 
+
+We begin our process with some basic data cleaning. Since D3 is unable to compile if we have any NaN values in our dataset, our first step was to find any of those rows and either delete the row altogether or find some way to impute the information if it made sense to. Places that we imputed included the category column where we created a new category called “category non specified” in cases where this entry was NaN in our dataset. Given that the number of rows containing NaN values was quite small compared to our full dataset, we did not lose out on too much significant information by simply deleting those rows. The column that gave the individual reason why each congressperson resigned involved a single-letter code which we needed to translate back to their full description in order to make our pie chart visuals. In terms of adjusting the state names, all of the states are encoded with their two-letter abbreviations while the visuals use the full name which required us to programmatically get the full name.
+
+
+<strong>Design Decisions</strong>
+
+With the desire to visualize how often members of Congress were resigning from their positions during different time periods granted the political party they represent, we began our visualization process by considering a line chart, cascading tree maps, and even hierarchical bar charts to represent the resignations by state and reason breakdown.  However we realized that a map of the United States might add another layer of description as we could convey not only the number of congress people that resign in comparison with each state but also look deeper into the various reasons that those congress individuals end up resigning in the first place. Therefore, given the intuitive nature of the choropleth, we decided on that as our final visualization format. From what we were able to create we believe that this type of visual allows users and our audience an easier method to navigate through states with smaller resignation counts which would have been more difficult to do with the other hierarchical plots. In terms of creating detailed information for each state we originally considered a bar chart to indicate the resignations by time for that state, however that data tends to vary heavily between the individual states. In particular states with very small counts of resignations would not have a lot of new information to provide by plotting it this way, therefore we decided that plotting against time was not as compelling. Instead we found it much more compelling to represent the data by breaking it down by category.
+Our project has two main kinds of visualizations. First is the map visual and second is the pie chart. The map is used to represent the count of the total resignations by state through a color gradient. Lighter shades of purple, and colors that are closer to white, indicate a lower number of resignations while darker shades of purple indicate higher numbers of resignations. When a user clicks on a particular state the visual zooms in on that particular state to display the breakdown of the resignations by political party and also displays a pie chart that shows the different reasons and categories for why congresspersons resigned from their office. Since we had two different kinds of visualizations our implementation used two different SVG charts for each of them. We included some modifications in the click handler function in order to create the breakdowns and additional visuals that we desired when a user selects a particular state to view. 
+
+
+The development process of our visualization was to utilize the vanilla template route consisting of the index.html, script.js, and styles.css files. These files respectively contain the code for our website, the code for our visualizations, and the style guidelines that we wanted our website to follow. 
+
+<strong>Work Split-Up</strong>
+Suhani: My main role was creating the fundamental skeleton of the project. I was in charge of a large majority of the data cleaning as well as exploring all the different possible visualizations that would work best for our project before we decided to commit to our final model of the map and pie chart combination. I was also in charge of considering which of the different visuals would be the most effective to make interactive or would be the easiest to implement given the time that we had. 
+Antara: I was mostly in charge of handling the interaction aspects of all of our models. This was one of the more time consuming aspects as we worked to try and add the most significant details to our visual that went beyond just offering plain or obvious information to our final model. 
+
+Ifunanya: I was in charge of keeping track of all of our notes and decisions and compiling them into this document so that we could create a cohesive write-up that would also be displayed on our website at the end of the project. I also helped assist Antara and Suhani while they were working on developing the visuals by finding useful documentation and tips to follow for improving our visuals.
+
+
+In total each of us spent about 4-6 hours working on this project either together or individually on our own tasks. While we all had our main tasks to focus on we all did work on a little bit of all the different components of this project. 
+</p>
 
 </body>
